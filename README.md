@@ -3,17 +3,17 @@ Examples of use of analysr R package
 
 
 Install package to run example (to get the latest version):
-```R
+```r
 library(devtools)
 install_github("analysr/analysr")
 ```
 
 To run:
-```R
+```r
 library(analysr)
 ```
 
 To remove package:
-```R
+```r
 remove.packages("analysr")
 ```
