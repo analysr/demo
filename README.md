@@ -17,3 +17,5 @@ To remove package:
 ```r
 remove.packages("analysr")
 ```
+
+To install from github:
