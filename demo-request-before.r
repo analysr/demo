@@ -1,14 +1,7 @@
-# On charge la version d'AnalysR qui nous interesse
-remove.packages("analysr")
-devtools::install_github("analysr/analysr@691a4c1")
-# '75efef9' numéro pour identifier le commit (en effet ce code est ammené à évoluer)
-.rs.restartR()
-rm(list=ls())
-
 # Fonction d'affichage de l'environement
 
 show_env <- function(env) {
-  sapply(ls(env), function(x) get(x, envir = env))
+  print(sapply(ls(env), function(x) get(x, envir = env)))
 }
 
 library(analysr)
@@ -19,10 +12,12 @@ library(tidyverse)
 # setup_new_env()
 setup_new_env()
 
+cat(crayon::blue$bold("Environement vide\n"))
 show_env(analysr_env)
 
-load_env_csv("./csv/before/before/")
+load_env_csv("./csv/demo-28-09-21/")
 
+cat(crayon::blue$bold("Environement chargé\n"))
 show_env(analysr_env)
 
 result <- (
@@ -32,6 +27,10 @@ result <- (
   %>% before("Surgery")
 )
 
+cat(crayon::blue$bold("Environement résultat\n"))
 show_env(analysr_env)
 
-print(result)
+if (!is.environment(result)) {
+  cat(crayon::blue$bold("Individus sélectionnés\n"))
+  print(result)
+}

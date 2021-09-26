@@ -1,10 +1,3 @@
-# On charge la version d'AnalysR qui nous interesse
-remove.packages("analysr")
-detach("package:analysr", unload = TRUE)
-devtools::install_github("analysr/analysr@75efef9")
-# '75efef9' numéro pour identifier le commit (en effet ce code est ammené à évoluer)
-.rs.restartR()
-
 # Fonction d'affichage de l'environement
 show_env <- function(env) {
   sapply(ls(env), function(x) get(x, envir = env))
@@ -14,8 +7,8 @@ show_env <- function(env) {
 library(analysr)
 library(tidyverse)
 
-# On crée un pourrait remettre à 0 l'environnement
-# mais cela est déjà fait au chargement du package
+# On cr?e un pourrait remettre ? 0 l'environnement
+# mais cela est d?j? fait au chargement du package
 # setup_new_env()
 
 

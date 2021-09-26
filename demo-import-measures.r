@@ -1,10 +1,3 @@
-# On charge la version d'AnalysR qui nous interesse
-remove.packages("analysr")
-detach("package:analysr", unload = TRUE)
-devtools::install_github("analysr/analysr@75efef9")
-# '75efef9' numéro pour identifier le commit (en effet ce code est ammené à évoluer)
-.rs.restartR()
-
 # Fonction d'affichage de l'environement
 show_env <- function(env) {
   sapply(ls(env), function(x) get(x, envir = env))
