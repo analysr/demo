@@ -15,7 +15,11 @@ setup_new_env()
 cat(crayon::blue$bold("Environement vide\n"))
 show_env(analysr_env)
 
-load_env_csv("./csv/demo-28-09-21/")
+import_measures_csv("./csv/demo-28-09-21/measures.csv")
+import_events_csv("./csv/demo-28-09-21/events.csv")
+
+# On peut aussi importer un environement
+# load_env_csv("./csv/demo-28-09-21/")
 
 cat(crayon::blue$bold("Environement chargé\n"))
 show_env(analysr_env)
