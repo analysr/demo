@@ -36,6 +36,6 @@ cat(crayon::blue$bold("Environement résultat\n"))
 show_env(analysr_env)
 
 if (!is.environment(result)) {
-  cat(crayon::blue$bold("Resultats dans la table stat_units\n"))
+  cat(crayon::blue$bold("Resultats dans la table description\n"))
   print(result)
 }
