@@ -27,14 +27,7 @@ show_env(analysr_env)
 result <- (
   analysr_env
   %>% observed(Temperature > 38.5)
-  %>% at_most(15 * days)
-  %>% before("Surgery")
 )
 
 cat(crayon::blue$bold("Environement résultat\n"))
 show_env(analysr_env)
-
-if (!is.environment(result)) {
-  cat(crayon::blue$bold("Individus sélectionnés\n"))
-  print(result)
-}

@@ -1,6 +1,6 @@
 # On charge la version d'AnalysR qui nous intéresse
 remove.packages("analysr")
-detach("package:analysr", unload = TRUE)
+# detach("package:analysr", unload = TRUE)
 devtools::install_github("analysr/analysr")
 # '@75efef9' numéro pour identifier le commit
 rm(list=ls())

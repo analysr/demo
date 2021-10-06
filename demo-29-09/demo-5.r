@@ -29,12 +29,13 @@ result <- (
   %>% observed(Temperature > 38.5)
   %>% at_most(15 * days)
   %>% before("Surgery")
+  %>% add_description("Fever before surgery")
 )
 
 cat(crayon::blue$bold("Environement résultat\n"))
 show_env(analysr_env)
 
 if (!is.environment(result)) {
-  cat(crayon::blue$bold("Individus sélectionnés\n"))
+  cat(crayon::blue$bold("Resultats dans la table description\n"))
   print(result)
 }

@@ -28,7 +28,6 @@ result <- (
   analysr_env
   %>% observed(Temperature > 38.5)
   %>% at_most(15 * days)
-  %>% before("Surgery")
 )
 
 cat(crayon::blue$bold("Environement résultat\n"))
