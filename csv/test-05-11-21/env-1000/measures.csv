@@ -1,0 +1,1001 @@
+"hash","stat_unit","date","tag","value","status"
+1144,1,2023-01-20 12:18:45,"Body Height",193.3,NA
+1145,1,2023-01-20 12:18:45,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1146,1,2023-01-20 12:18:45,"Body Weight",87.8,NA
+1147,1,2023-01-20 12:18:45,"Body Mass Index",23.5,NA
+1148,1,2023-01-20 12:18:45,"Diastolic Blood Pressure",82,NA
+1149,2,2023-01-20 12:18:45,"Systolic Blood Pressure",119,NA
+1150,2,2023-01-20 12:18:45,"Heart rate",77,NA
+1151,2,2023-01-20 12:18:45,"Respiratory rate",14,NA
+1152,2,2017-11-20 11:01:26,"Body temperature",37.1,NA
+1153,2,2027-07-20 10:14:58,"Body Height",165,NA
+1154,3,2027-07-20 10:14:58,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1155,3,2027-07-20 10:14:58,"Body Weight",64.7,NA
+1156,3,2027-07-20 10:14:58,"Body Mass Index",23.8,NA
+1157,3,2027-07-20 10:14:58,"Body mass index (BMI) [Percentile] Per age and gender",71.3,NA
+1158,3,2027-07-20 10:14:58,"Diastolic Blood Pressure",70,NA
+1159,4,2023-01-20 12:18:45,"Leukocytes [#/volume] in Blood by Automated count",9.5,NA
+1160,4,2028-07-20 11:17:02,"Body Height",181,NA
+1161,4,2027-07-20 10:14:58,"Systolic Blood Pressure",121,NA
+1162,4,2027-07-20 10:14:58,"Heart rate",70,NA
+1163,4,2027-07-20 10:14:58,"Respiratory rate",15,NA
+1164,5,2027-07-20 10:14:58,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1165,5,2028-07-20 11:17:02,"Body Weight",65.8,NA
+1166,5,2028-07-20 11:17:02,"Body Height",169.6,NA
+1167,5,2020-11-20 10:04:04,"Body Mass Index",20.1,NA
+1168,5,2028-07-20 11:17:02,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1169,6,2020-11-20 10:04:04,"Diastolic Blood Pressure",83,NA
+1170,6,2028-07-20 11:17:02,"Body Weight",63.8,NA
+1171,6,2020-11-20 10:04:04,"Systolic Blood Pressure",107,NA
+1172,6,2028-07-20 11:17:02,"Body Mass Index",22.2,NA
+1173,6,2020-11-20 10:04:04,"Heart rate",87,NA
+1174,7,2028-07-20 11:17:02,"Body mass index (BMI) [Percentile] Per age and gender",81.9,NA
+1175,7,2020-11-20 10:04:04,"Respiratory rate",13,NA
+1176,7,2028-07-20 11:17:02,"Diastolic Blood Pressure",84,NA
+1177,7,2020-11-20 10:04:04,"Systolic Blood Pressure",108,NA
+1178,7,2020-11-20 10:04:04,"Heart rate",83,NA
+1179,8,2020-11-20 10:04:04,"Respiratory rate",13,NA
+1180,8,2020-11-20 10:04:04,"Erythrocytes [#/volume] in Blood by Automated count",4.8,NA
+1181,8,2020-11-20 10:04:04,"Hemoglobin [Mass/volume] in Blood",15.1,NA
+1182,8,2023-01-20 12:18:45,"Hematocrit [Volume Fraction] of Blood by Automated count",39.9,NA
+1183,8,2023-01-20 12:18:45,"MCV [Entitic volume] by Automated count",86.2,NA
+1184,9,2023-01-20 12:18:45,"MCH [Entitic mass] by Automated count",31.4,NA
+1185,9,2023-01-20 12:18:45,"Body temperature",37.8,NA
+1186,9,2023-01-20 12:18:45,"MCHC [Mass/volume] by Automated count",35.1,NA
+1187,9,2007-02-20 11:04:04,"Erythrocyte distribution width [Entitic volume] by Automated count",41.3,NA
+1188,9,2023-01-20 12:18:45,"Platelets [#/volume] in Blood by Automated count",297.9,NA
+1189,10,2023-01-20 12:18:45,"Platelet distribution width [Entitic volume] in Blood by Automated count",157.9,NA
+1190,10,2023-01-20 12:18:45,"Platelet mean volume [Entitic volume] in Blood by Automated count",9.6,NA
+1191,10,2023-01-20 12:18:45,"Body temperature",37.1,NA
+1192,10,2023-01-20 12:18:45,"Body Height",193.3,NA
+1193,10,2023-01-20 12:18:45,"Body Height",175.2,NA
+1194,11,2019-04-20 11:05:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1195,11,2026-01-20 15:18:45,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1196,11,2026-11-20 11:04:04,"Body Weight",81.7,NA
+1197,11,2026-01-20 15:18:45,"Body Mass Index",26.6,NA
+1198,11,2026-11-20 11:04:04,"Body mass index (BMI) [Percentile] Per age and gender",94.6,NA
+1199,12,2026-11-20 11:04:04,"Body Height",162.5,NA
+1200,12,2026-11-20 11:04:04,"Diastolic Blood Pressure",70,NA
+1201,12,2026-11-20 11:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1202,12,2012-08-20 12:02:26,"Systolic Blood Pressure",119,NA
+1203,12,2026-11-20 11:04:04,"Body Weight",77.4,NA
+1204,13,2012-08-20 12:02:26,"Leukocytes [#/volume] in Blood by Automated count",9.5,NA
+1205,13,2026-11-20 11:04:04,"Body Mass Index",29.3,NA
+1206,13,2012-08-20 12:02:26,"Heart rate",68,NA
+1207,13,2028-07-20 11:17:02,"Erythrocytes [#/volume] in Blood by Automated count",4.2,NA
+1208,13,2012-08-20 12:02:26,"Respiratory rate",15,NA
+1209,14,2026-11-20 11:04:04,"Diastolic Blood Pressure",87,NA
+1210,14,2028-07-20 11:17:02,"Hemoglobin [Mass/volume] in Blood",13.3,NA
+1211,14,2026-11-20 11:04:04,"Systolic Blood Pressure",127,NA
+1212,14,2012-08-20 12:02:26,"Hematocrit [Volume Fraction] of Blood by Automated count",40,NA
+1213,14,2026-11-20 11:04:04,"Heart rate",70,NA
+1214,15,2028-07-20 11:17:02,"MCV [Entitic volume] by Automated count",93.9,NA
+1215,15,2012-08-20 12:02:26,"Respiratory rate",13,NA
+1216,15,2028-07-20 11:17:02,"MCH [Entitic mass] by Automated count",29.9,NA
+1217,15,2012-08-20 12:02:26,"Total Cholesterol",174.1,NA
+1218,15,2028-07-20 11:17:02,"MCHC [Mass/volume] by Automated count",34.8,NA
+1219,16,2012-08-20 12:02:26,"Triglycerides",101.8,NA
+1220,16,2028-07-20 11:17:02,"Erythrocyte distribution width [Entitic volume] by Automated count",45.7,NA
+1221,16,2012-08-20 12:02:26,"Body Weight",87.8,NA
+1222,16,2028-07-20 11:17:02,"Low Density Lipoprotein Cholesterol",86.9,NA
+1223,16,2012-08-20 12:02:26,"Platelets [#/volume] in Blood by Automated count",188.6,NA
+1224,17,2028-07-20 11:17:02,"Body Mass Index",23.5,NA
+1225,17,2026-01-20 15:18:45,"High Density Lipoprotein Cholesterol",66.9,NA
+1226,17,2012-08-20 12:02:26,"Platelet distribution width [Entitic volume] in Blood by Automated count",495.1,NA
+1227,17,2028-07-20 11:17:02,"Leukocytes [#/volume] in Blood by Automated count",4.6,NA
+1228,17,2026-01-20 15:18:45,"Platelet mean volume [Entitic volume] in Blood by Automated count",9.5,NA
+1229,18,2012-08-20 12:02:26,"Erythrocytes [#/volume] in Blood by Automated count",4.2,NA
+1230,18,2028-07-20 11:17:02,"Hemoglobin [Mass/volume] in Blood",12.3,NA
+1231,18,2012-08-20 12:02:26,"Hematocrit [Volume Fraction] of Blood by Automated count",45,NA
+1232,18,2028-07-20 11:17:02,"MCV [Entitic volume] by Automated count",86.3,NA
+1233,18,2012-08-20 12:02:26,"Body Height",175.6,NA
+1234,19,2028-07-20 11:17:02,"MCH [Entitic mass] by Automated count",32.4,NA
+1235,19,2012-08-20 12:02:26,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1236,19,2012-08-20 12:02:26,"MCHC [Mass/volume] by Automated count",33.9,NA
+1237,19,2012-08-20 12:02:26,"Body Weight",83.9,NA
+1238,19,2007-01-20 12:04:04,"Erythrocyte distribution width [Entitic volume] by Automated count",45.7,NA
+1239,20,2012-08-20 12:02:26,"Body Mass Index",27.2,NA
+1240,20,2007-01-20 12:04:04,"Platelets [#/volume] in Blood by Automated count",259,NA
+1241,20,2012-08-20 12:02:26,"Body mass index (BMI) [Percentile] Per age and gender",95.4,NA
+1242,20,2007-01-20 12:04:04,"Platelet distribution width [Entitic volume] in Blood by Automated count",440.7,NA
+1243,20,2012-08-20 12:02:26,"Diastolic Blood Pressure",82,NA
+1244,21,2007-01-20 12:04:04,"Platelet mean volume [Entitic volume] in Blood by Automated count",12.1,NA
+1245,21,2012-08-20 12:02:26,"Systolic Blood Pressure",118,NA
+1246,21,2007-01-20 12:04:04,"Heart rate",77,NA
+1247,21,2012-08-20 12:02:26,"Body Height",181,NA
+1248,21,2007-01-20 12:04:04,"Diastolic Blood Pressure",88,NA
+1249,22,2012-08-20 12:02:26,"Respiratory rate",16,NA
+1250,22,2007-01-20 12:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1251,22,2007-01-20 12:04:04,"Systolic Blood Pressure",134,NA
+1252,22,2031-07-20 14:17:02,"Body Weight",70.9,NA
+1253,22,2026-01-20 15:18:45,"Heart rate",99,NA
+1254,23,2007-01-20 12:04:04,"Body Height",165.5,NA
+1255,23,2031-07-20 14:17:02,"Body Mass Index",21.7,NA
+1256,23,2026-01-20 15:18:45,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1257,23,2007-01-20 12:04:04,"Diastolic Blood Pressure",75,NA
+1258,23,2031-07-20 14:17:02,"Body Weight",66.1,NA
+1259,24,2026-01-20 15:18:45,"Respiratory rate",14,NA
+1260,24,2012-08-20 12:02:26,"Body Mass Index",24.1,NA
+1261,24,2002-08-20 11:14:58,"Total Cholesterol",170.6,NA
+1262,24,2031-07-20 14:17:02,"Body mass index (BMI) [Percentile] Per age and gender",68.1,NA
+1263,24,2002-08-20 11:14:58,"Systolic Blood Pressure",110,NA
+1264,25,2031-07-20 14:17:02,"Triglycerides",112,NA
+1265,25,2002-08-20 11:14:58,"Heart rate",96,NA
+1266,25,2026-01-20 15:18:45,"Body Height",178.3,NA
+1267,25,2002-08-20 11:14:58,"Respiratory rate",13,NA
+1268,25,2026-01-20 15:18:45,"Low Density Lipoprotein Cholesterol",76.8,NA
+1269,26,2002-08-20 11:14:58,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1270,26,2031-07-20 14:17:02,"High Density Lipoprotein Cholesterol",71.4,NA
+1271,26,2026-01-20 15:18:45,"Body Weight",91,NA
+1272,26,2031-07-20 14:17:02,"Body Mass Index",28.6,NA
+1273,26,2001-12-20 12:04:04,"Body mass index (BMI) [Percentile] Per age and gender",96.3,NA
+1274,27,2031-07-20 14:17:02,"Body Height",181,NA
+1275,27,2026-01-20 15:18:45,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1276,27,2031-07-20 14:17:02,"Body Weight",75.6,NA
+1277,27,2001-12-20 12:04:04,"Body Mass Index",23.1,NA
+1278,27,2026-01-20 15:18:45,"Diastolic Blood Pressure",80,NA
+1279,28,2001-12-20 12:04:04,"Systolic Blood Pressure",130,NA
+1280,28,2026-01-20 15:18:45,"Heart rate",62,NA
+1281,28,2001-12-20 12:04:04,"Respiratory rate",13,NA
+1282,28,2001-12-20 12:04:04,"Leukocytes [#/volume] in Blood by Automated count",9,NA
+1283,28,2003-08-20 17:17:02,"Erythrocytes [#/volume] in Blood by Automated count",4.4,NA
+1284,29,2003-08-20 17:17:02,"Hemoglobin [Mass/volume] in Blood",16.4,NA
+1285,29,2003-08-20 17:17:02,"Diastolic Blood Pressure",86,NA
+1286,29,2003-08-20 17:17:02,"Hematocrit [Volume Fraction] of Blood by Automated count",44.3,NA
+1287,29,2003-08-20 17:17:02,"Systolic Blood Pressure",113,NA
+1288,29,2003-08-20 17:17:02,"MCV [Entitic volume] by Automated count",92.2,NA
+1289,30,2003-08-20 17:17:02,"Heart rate",83,NA
+1290,30,2003-08-20 17:17:02,"MCH [Entitic mass] by Automated count",31.3,NA
+1291,30,2003-08-20 17:17:02,"Diastolic Blood Pressure",85,NA
+1292,30,2003-08-20 17:17:02,"Systolic Blood Pressure",118,NA
+1293,30,2003-08-20 17:17:02,"Heart rate",79,NA
+1294,31,2001-12-20 12:04:04,"Respiratory rate",15,NA
+1295,31,2003-08-20 17:17:02,"MCHC [Mass/volume] by Automated count",35.7,NA
+1296,31,2001-12-20 12:04:04,"Body Height",162.5,NA
+1297,31,2003-08-20 17:17:02,"Erythrocyte distribution width [Entitic volume] by Automated count",42.7,NA
+1298,31,2001-12-20 12:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1299,32,2003-08-20 17:17:02,"Platelets [#/volume] in Blood by Automated count",346.8,NA
+1300,32,2002-08-20 11:14:58,"Body Weight",73.8,NA
+1301,32,2002-08-20 11:14:58,"Platelet distribution width [Entitic volume] in Blood by Automated count",235.5,NA
+1302,32,2002-08-20 11:14:58,"Body Mass Index",28,NA
+1303,32,2002-08-20 11:14:58,"Platelet mean volume [Entitic volume] in Blood by Automated count",11.9,NA
+1304,33,2002-08-20 11:14:58,"Diastolic Blood Pressure",80,NA
+1305,33,2003-08-20 17:17:02,"Body Height",165.5,NA
+1306,33,2016-08-20 15:02:26,"Systolic Blood Pressure",127,NA
+1307,33,2003-08-20 17:17:02,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1308,33,2016-08-20 15:02:26,"Heart rate",83,NA
+1309,34,2003-08-20 17:17:02,"Body Weight",66.1,NA
+1310,34,2016-08-20 15:02:26,"Respiratory rate",12,NA
+1311,34,2003-08-20 17:17:02,"Body Mass Index",24.1,NA
+1312,34,2016-08-20 15:02:26,"Total Cholesterol",176.4,NA
+1313,34,2003-08-20 17:17:02,"Body mass index (BMI) [Percentile] Per age and gender",68.1,NA
+1314,35,2003-08-20 17:17:02,"Triglycerides",136.8,NA
+1315,35,2016-08-20 15:02:26,"Diastolic Blood Pressure",84,NA
+1316,35,2016-08-20 11:14:58,"Low Density Lipoprotein Cholesterol",69.3,NA
+1317,35,2016-08-20 15:02:26,"Systolic Blood Pressure",121,NA
+1318,35,2016-08-20 11:14:58,"High Density Lipoprotein Cholesterol",79.7,NA
+1319,36,2016-08-20 15:02:26,"Heart rate",98,NA
+1320,36,2016-08-20 11:14:58,"Respiratory rate",13,NA
+1321,36,2016-08-20 15:02:26,"Body Height",193.3,NA
+1322,36,2016-08-20 11:14:58,"Body Height",165.7,NA
+1323,36,2016-08-20 15:02:26,"Body temperature",37.9,NA
+1324,37,2016-08-20 11:14:58,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1325,37,2016-08-20 15:02:26,"Respiratory rate",14,NA
+1326,37,2016-08-20 11:14:58,"Body Weight",87.8,NA
+1327,37,2016-08-20 15:02:26,"Leukocytes [#/volume] in Blood by Automated count",9.8,NA
+1328,37,2016-08-20 11:14:58,"Body Mass Index",23.5,NA
+1329,38,2016-08-20 15:02:26,"Erythrocytes [#/volume] in Blood by Automated count",4.7,NA
+1330,38,2016-08-20 11:14:58,"Diastolic Blood Pressure",78,NA
+1331,38,2016-08-20 15:02:26,"Hemoglobin [Mass/volume] in Blood",16.2,NA
+1332,38,2016-08-20 11:14:58,"Systolic Blood Pressure",115,NA
+1333,38,2016-08-20 11:14:58,"Hematocrit [Volume Fraction] of Blood by Automated count",45.2,NA
+1334,39,2009-01-20 17:18:45,"Heart rate",95,NA
+1335,39,2005-08-20 14:14:58,"MCV [Entitic volume] by Automated count",82.2,NA
+1336,39,2007-12-20 15:01:26,"Respiratory rate",15,NA
+1337,39,2009-01-20 17:18:45,"MCH [Entitic mass] by Automated count",27.1,NA
+1338,39,2001-12-20 12:04:04,"MCHC [Mass/volume] by Automated count",35.7,NA
+1339,40,2009-01-20 17:18:45,"Erythrocyte distribution width [Entitic volume] by Automated count",44.8,NA
+1340,40,2001-12-20 12:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1341,40,2009-01-20 17:18:45,"Platelets [#/volume] in Blood by Automated count",437.5,NA
+1342,40,2001-12-20 12:04:04,"Body Weight",69.7,NA
+1343,40,2009-01-20 17:18:45,"Body Mass Index",25.4,NA
+1344,41,2001-12-20 12:04:04,"QALY",19.9,NA
+1345,41,2009-01-20 17:18:45,"Body Height",193.3,NA
+1346,41,2001-12-20 12:04:04,"Diastolic Blood Pressure",79,NA
+1347,41,2009-01-20 17:18:45,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1348,41,2001-12-20 12:04:04,"Systolic Blood Pressure",123,NA
+1349,42,2009-01-20 17:18:45,"Platelet distribution width [Entitic volume] in Blood by Automated count",358.4,NA
+1350,42,2001-12-20 12:04:04,"Body Weight",87.8,NA
+1351,42,2009-01-20 17:18:45,"Heart rate",89,NA
+1352,42,2001-12-20 12:04:04,"Body Height",162.5,NA
+1353,42,2001-12-20 12:04:04,"Body Mass Index",23.5,NA
+1354,43,2005-08-20 14:14:58,"Respiratory rate",14,NA
+1355,43,2001-12-20 12:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1356,43,2005-08-20 14:14:58,"Diastolic Blood Pressure",85,NA
+1357,43,2005-08-20 14:14:58,"Leukocytes [#/volume] in Blood by Automated count",4.1,NA
+1358,43,2025-05-20 10:17:02,"Body Weight",78.2,NA
+1359,44,2029-01-20 18:18:45,"Systolic Blood Pressure",103,NA
+1360,44,2005-08-20 14:14:58,"Erythrocytes [#/volume] in Blood by Automated count",5.4,NA
+1361,44,2029-01-20 18:18:45,"Body Mass Index",29.6,NA
+1362,44,2005-08-20 14:14:58,"Heart rate",66,NA
+1363,44,2001-12-20 12:04:04,"Hemoglobin [Mass/volume] in Blood",17.1,NA
+1364,45,2029-01-20 18:18:45,"Diastolic Blood Pressure",74,NA
+1365,45,2005-08-20 14:14:58,"Respiratory rate",13,NA
+1366,45,2003-06-20 18:02:26,"Hematocrit [Volume Fraction] of Blood by Automated count",37.7,NA
+1367,45,2029-01-20 18:18:45,"Systolic Blood Pressure",127,NA
+1368,45,2005-08-20 14:14:58,"Total Cholesterol",165.5,NA
+1369,46,2003-06-20 18:02:26,"MCV [Entitic volume] by Automated count",86,NA
+1370,46,2029-01-20 18:18:45,"Heart rate",84,NA
+1371,46,2005-08-20 14:14:58,"Triglycerides",113.3,NA
+1372,46,2003-06-20 18:02:26,"MCH [Entitic mass] by Automated count",27.9,NA
+1373,46,2029-01-20 18:18:45,"Respiratory rate",15,NA
+1374,47,2005-08-20 14:14:58,"Low Density Lipoprotein Cholesterol",80.7,NA
+1375,47,2003-06-20 18:02:26,"MCHC [Mass/volume] by Automated count",34,NA
+1376,47,2029-01-20 18:18:45,"Leukocytes [#/volume] in Blood by Automated count",9.2,NA
+1377,47,2005-08-20 14:14:58,"High Density Lipoprotein Cholesterol",62.2,NA
+1378,47,2003-06-20 18:02:26,"Erythrocyte distribution width [Entitic volume] by Automated count",45.4,NA
+1379,48,2029-01-20 18:18:45,"Erythrocytes [#/volume] in Blood by Automated count",4.4,NA
+1380,48,2005-08-20 14:14:58,"Leukocytes [#/volume] in Blood by Automated count",6.3,NA
+1381,48,2003-06-20 18:02:26,"Platelets [#/volume] in Blood by Automated count",262.7,NA
+1382,48,2029-01-20 18:18:45,"Hemoglobin [Mass/volume] in Blood",13.1,NA
+1383,48,2005-08-20 14:14:58,"Erythrocytes [#/volume] in Blood by Automated count",4.6,NA
+1384,49,2003-06-20 18:02:26,"Platelet distribution width [Entitic volume] in Blood by Automated count",417.2,NA
+1385,49,2029-01-20 18:18:45,"Hematocrit [Volume Fraction] of Blood by Automated count",42.4,NA
+1386,49,2005-08-20 14:14:58,"Hemoglobin [Mass/volume] in Blood",14.5,NA
+1387,49,2003-06-20 18:02:26,"Platelet mean volume [Entitic volume] in Blood by Automated count",9.4,NA
+1388,49,2029-01-20 18:18:45,"MCV [Entitic volume] by Automated count",87.4,NA
+1389,50,2005-08-20 14:14:58,"Hematocrit [Volume Fraction] of Blood by Automated count",46.3,NA
+1390,50,2003-06-20 18:02:26,"MCH [Entitic mass] by Automated count",27.7,NA
+1391,50,2029-01-20 18:18:45,"MCV [Entitic volume] by Automated count",87.3,NA
+1392,50,2005-08-20 14:14:58,"MCHC [Mass/volume] by Automated count",34.2,NA
+1393,50,2003-06-20 18:02:26,"MCH [Entitic mass] by Automated count",31.4,NA
+1394,51,2029-01-20 18:18:45,"Erythrocyte distribution width [Entitic volume] by Automated count",40.1,NA
+1395,51,2005-08-20 14:14:58,"MCHC [Mass/volume] by Automated count",33.6,NA
+1396,51,2003-06-20 18:02:26,"Platelets [#/volume] in Blood by Automated count",238.5,NA
+1397,51,2029-01-20 18:18:45,"Erythrocyte distribution width [Entitic volume] by Automated count",40.3,NA
+1398,51,2005-08-20 14:14:58,"QALY",20.9,NA
+1399,52,2003-06-20 18:02:26,"Platelets [#/volume] in Blood by Automated count",343.6,NA
+1400,52,2029-01-20 18:18:45,"Platelet distribution width [Entitic volume] in Blood by Automated count",432.5,NA
+1401,52,2005-08-20 14:14:58,"QALY",21.9,NA
+1402,52,2003-06-20 18:02:26,"Platelet mean volume [Entitic volume] in Blood by Automated count",11.5,NA
+1403,52,2005-08-20 14:14:58,"Platelet distribution width [Entitic volume] in Blood by Automated count",225.3,NA
+1404,53,2029-01-20 18:18:45,"QALY",22.9,NA
+1405,53,2003-06-20 18:02:26,"Platelet mean volume [Entitic volume] in Blood by Automated count",9.5,NA
+1406,53,2029-01-20 18:18:45,"QALY",23.9,NA
+1407,53,2003-06-20 18:02:26,"QALY",24.9,NA
+1408,53,2029-01-20 18:18:45,"QALY",25.9,NA
+1409,54,2003-06-20 18:02:26,"QALY",26.9,NA
+1410,54,2029-01-20 18:18:45,"QALY",27.9,NA
+1411,54,2003-06-20 18:02:26,"QALY",28.9,NA
+1412,54,2029-01-20 18:18:45,"QALY",26,NA
+1413,54,2025-05-20 11:17:02,"QALY",27,NA
+1414,55,2029-01-20 18:18:45,"Platelet mean volume [Entitic volume] in Blood by Automated count",9.7,NA
+1415,55,2029-01-20 18:18:45,"QALY",28,NA
+1416,55,2025-05-20 12:17:02,"QALY",29,NA
+1417,55,2029-01-20 18:18:45,"DALY",0.1,NA
+1418,55,2029-01-20 18:18:45,"QALY",30,NA
+1419,56,2003-06-20 18:02:26,"DALY",0.1,NA
+1420,56,2025-05-20 13:17:02,"QALY",31,NA
+1421,56,2003-06-20 18:02:26,"Body Height",179.8,NA
+1422,56,2003-06-20 18:02:26,"DALY",0.1,NA
+1423,56,2025-05-20 14:17:02,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1424,57,2025-05-20 15:17:02,"QALY",32,NA
+1425,57,2025-05-20 16:17:02,"Body Weight",83.6,NA
+1426,57,2025-05-20 17:17:02,"DALY",0.1,NA
+1427,57,2025-05-20 18:17:02,"Body Mass Index",25.9,NA
+1428,57,2025-05-20 19:17:02,"QALY",33,NA
+1429,58,2014-11-20 10:18:45,"Body mass index (BMI) [Percentile] Per age and gender",88.8,NA
+1430,58,2014-11-20 11:18:45,"DALY",0.1,NA
+1431,58,2001-12-20 12:04:04,"QALY",34,NA
+1432,58,2014-11-20 12:18:45,"Diastolic Blood Pressure",82,NA
+1433,58,2001-12-20 12:04:04,"QALY",31,NA
+1434,59,2014-11-20 13:18:45,"DALY",0.1,NA
+1435,59,2025-05-20 10:17:02,"QALY",35,NA
+1436,59,2014-11-20 14:18:45,"Systolic Blood Pressure",124,NA
+1437,59,2025-05-20 11:17:02,"QALY",32,NA
+1438,59,2014-11-20 15:18:45,"DALY",0.1,NA
+1439,60,2007-12-20 13:04:04,"Heart rate",96,NA
+1440,60,2025-05-20 12:17:02,"Respiratory rate",14,NA
+1441,60,2007-12-20 13:04:04,"QALY",33,NA
+1442,60,2014-11-20 16:18:45,"DALY",0.1,NA
+1443,60,2007-12-20 13:04:04,"QALY",34,NA
+1444,61,2025-05-20 13:17:02,"DALY",0.1,NA
+1445,61,2007-12-20 13:04:04,"QALY",35,NA
+1446,61,2014-11-20 17:18:45,"DALY",0.1,NA
+1447,61,2007-12-20 13:04:04,"QALY",36,NA
+1448,61,2025-05-20 14:17:02,"DALY",0,NA
+1449,62,2014-11-20 18:18:45,"QALY",37,NA
+1450,62,2007-12-20 13:04:04,"DALY",0,NA
+1451,62,2028-05-20 10:02:26,"QALY",38,NA
+1452,62,2025-05-20 15:17:02,"Body Height",165.7,NA
+1453,62,2014-11-20 19:18:45,"DALY",0,NA
+1454,63,2007-12-20 13:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1455,63,2028-05-20 11:02:26,"QALY",39,NA
+1456,63,2025-05-20 16:17:02,"DALY",0,NA
+1457,63,2007-12-20 13:04:04,"Body Weight",74.4,NA
+1458,63,2007-12-20 13:04:04,"QALY",40,NA
+1459,64,2028-05-20 12:02:26,"QOLS",1,NA
+1460,64,2007-12-20 13:04:04,"DALY",0,NA
+1461,64,2025-05-20 17:17:02,"QOLS",1,NA
+1462,64,2028-05-20 13:02:26,"DALY",0,NA
+1463,64,2025-05-20 18:17:02,"Body Height",180.6,NA
+1464,65,2028-05-20 14:02:26,"QOLS",1,NA
+1465,65,2025-05-20 19:17:02,"DALY",0,NA
+1466,65,2028-05-20 15:02:26,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1467,65,2014-11-20 10:18:45,"QOLS",1,NA
+1468,65,2028-05-20 16:02:26,"DALY",0,NA
+1469,66,2014-11-20 11:18:45,"Body Weight",86,NA
+1470,66,2028-05-20 17:02:26,"DALY",0,NA
+1471,66,2008-08-20 17:14:58,"Body Mass Index",26.4,NA
+1472,66,2014-11-20 12:18:45,"Body Mass Index",27.1,NA
+1473,66,2008-08-20 17:14:58,"DALY",0,NA
+1474,67,2028-05-20 18:02:26,"DALY",0,NA
+1475,67,2014-11-20 13:18:45,"Body mass index (BMI) [Percentile] Per age and gender",87.9,NA
+1476,67,2008-08-20 17:14:58,"Diastolic Blood Pressure",77,NA
+1477,67,2028-05-20 19:02:26,"Diastolic Blood Pressure",79,NA
+1478,67,2025-05-20 10:17:02,"DALY",0,NA
+1479,68,2014-11-20 14:18:45,"Systolic Blood Pressure",109,NA
+1480,68,2025-05-20 11:17:02,"QOLS",1,NA
+1481,68,2014-11-20 15:18:45,"Heart rate",70,NA
+1482,68,2013-12-20 14:04:04,"DALY",0,NA
+1483,68,2025-05-20 12:17:02,"QOLS",1,NA
+1484,69,2014-11-20 16:18:45,"Respiratory rate",14,NA
+1485,69,2013-12-20 14:04:04,"DALY",0,NA
+1486,69,2025-05-20 13:17:02,"QOLS",1,NA
+1487,69,2014-11-20 17:18:45,"DALY",0,NA
+1488,69,2013-12-20 14:04:04,"QOLS",1,NA
+1489,70,2014-11-20 18:18:45,"Systolic Blood Pressure",113,NA
+1490,70,2013-12-20 14:04:04,"QOLS",1,NA
+1491,70,2008-08-20 17:14:58,"QOLS",1,NA
+1492,70,2014-11-20 19:18:45,"Heart rate",75,NA
+1493,70,2028-05-20 10:02:26,"QOLS",1,NA
+1494,71,2013-12-20 14:04:04,"Respiratory rate",14,NA
+1495,71,2008-08-20 17:14:58,"QOLS",1,NA
+1496,71,2013-12-20 14:04:04,"QOLS",1,NA
+1497,71,2028-05-20 11:02:26,"QOLS",1,NA
+1498,71,2008-08-20 17:14:58,"QOLS",1,NA
+1499,72,2025-05-20 14:17:02,"QOLS",1,NA
+1500,72,2008-08-20 17:14:58,"Body Height",181,NA
+1501,72,2028-05-20 12:02:26,"QOLS",1,NA
+1502,72,2025-05-20 15:17:02,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1503,72,2008-08-20 17:14:58,"Body Weight",90.5,NA
+1504,73,2008-08-20 17:14:58,"Body Mass Index",27.6,NA
+1505,73,2028-05-20 13:02:26,"QOLS",1,NA
+1506,73,2025-05-20 16:17:02,"DALY",0,NA
+1507,73,2028-05-20 14:02:26,"Body mass index (BMI) [Percentile] Per age and gender",89.7,NA
+1508,73,2025-05-20 17:17:02,"Diastolic Blood Pressure",72,NA
+1509,74,2013-12-20 14:04:04,"QOLS",1,NA
+1510,74,2025-05-20 18:17:02,"Systolic Blood Pressure",126,NA
+1511,74,2014-11-20 10:18:45,"Heart rate",66,NA
+1512,74,2013-12-20 14:04:04,"QOLS",1,NA
+1513,74,2025-05-20 19:17:02,"Respiratory rate",14,NA
+1514,75,2013-12-20 14:04:04,"Body temperature",37.8,NA
+1515,75,2014-11-20 11:18:45,"Body Height",181.2,NA
+1516,75,2013-12-20 14:04:04,"DALY",0,NA
+1517,75,2014-11-20 12:18:45,"DALY",0,NA
+1518,75,2014-11-20 13:18:45,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1519,76,2014-11-20 14:18:45,"Body Weight",97.2,NA
+1520,76,2014-11-20 15:18:45,"DALY",0,NA
+1521,76,2019-12-20 15:04:04,"Body Mass Index",29.6,NA
+1522,76,2014-11-20 16:18:45,"Diastolic Blood Pressure",82,NA
+1523,76,2019-12-20 15:04:04,"DALY",0,NA
+1524,77,2019-12-20 15:04:04,"Systolic Blood Pressure",111,NA
+1525,77,2019-12-20 15:04:04,"Heart rate",77,NA
+1526,77,2014-11-20 17:18:45,"Body Height",165.7,NA
+1527,77,2028-05-20 15:02:26,"Respiratory rate",13,NA
+1528,77,2019-12-20 15:04:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1529,78,2019-12-20 15:04:04,"Leukocytes [#/volume] in Blood by Automated count",4.2,NA
+1530,78,2014-11-20 18:18:45,"Body Weight",76.4,NA
+1531,78,2019-12-20 15:04:04,"Erythrocytes [#/volume] in Blood by Automated count",5.4,NA
+1532,78,2019-12-20 15:04:04,"Body Mass Index",27.8,NA
+1533,78,2014-11-20 19:18:45,"Hemoglobin [Mass/volume] in Blood",15.1,NA
+1534,79,2019-12-20 15:04:04,"Diastolic Blood Pressure",83,NA
+1535,79,2019-12-20 15:04:04,"Hematocrit [Volume Fraction] of Blood by Automated count",44.1,NA
+1536,79,2004-07-20 16:05:04,"Systolic Blood Pressure",106,NA
+1537,79,2022-12-20 18:04:04,"Heart rate",64,NA
+1538,79,2028-05-20 16:02:26,"MCV [Entitic volume] by Automated count",87.4,NA
+1539,80,2028-05-20 17:02:26,"Respiratory rate",16,NA
+1540,80,2022-12-20 18:04:04,"MCH [Entitic mass] by Automated count",27.2,NA
+1541,80,2022-12-20 18:04:04,"QOLS",1,NA
+1542,80,2028-05-20 18:02:26,"MCHC [Mass/volume] by Automated count",35,NA
+1543,80,2022-12-20 18:04:04,"Erythrocyte distribution width [Entitic volume] by Automated count",41.8,NA
+1544,81,2022-12-20 18:04:04,"QOLS",1,NA
+1545,81,2028-05-20 19:02:26,"Platelets [#/volume] in Blood by Automated count",285.1,NA
+1546,81,2022-12-20 18:04:04,"Platelet distribution width [Entitic volume] in Blood by Automated count",236.8,NA
+1547,81,2022-12-20 18:04:04,"QOLS",1,NA
+1548,81,2007-05-20 19:14:58,"Platelet mean volume [Entitic volume] in Blood by Automated count",10.9,NA
+1549,82,2022-12-20 18:04:04,"QOLS",1,NA
+1550,82,2007-05-20 19:14:58,"QOLS",1,NA
+1551,82,2022-12-20 18:04:04,"QOLS",1,NA
+1552,82,2007-05-20 19:14:58,"QOLS",1,NA
+1553,82,2022-12-20 18:04:04,"QALY",17,NA
+1554,83,2007-05-20 19:14:58,"QOLS",1,NA
+1555,83,2022-12-20 18:04:04,"QALY",18,NA
+1556,83,2007-05-20 19:14:58,"QOLS",1,NA
+1557,83,2022-12-20 18:04:04,"QALY",19,NA
+1558,83,2007-05-20 19:14:58,"QOLS",1,NA
+1559,84,2007-05-20 19:14:58,"QALY",20,NA
+1560,84,2022-12-20 18:04:04,"QALY",13,NA
+1561,84,2007-05-20 19:14:58,"QALY",21,NA
+1562,84,2007-05-20 19:14:58,"QALY",14,NA
+1563,84,2022-12-20 18:04:04,"QALY",22,NA
+1564,85,2028-05-20 10:02:26,"QALY",15,NA
+1565,85,2022-12-20 18:04:04,"QALY",23,NA
+1566,85,2022-12-20 18:04:04,"QALY",16,NA
+1567,85,2028-05-20 11:02:26,"QALY",24,NA
+1568,85,2022-12-20 18:04:04,"QALY",17,NA
+1569,86,2022-12-20 18:04:04,"QALY",25,NA
+1570,86,2028-05-20 12:02:26,"QALY",18,NA
+1571,86,2022-12-20 18:04:04,"QALY",26,NA
+1572,86,2022-12-20 18:04:04,"QALY",19,NA
+1573,86,2028-05-20 13:02:26,"QALY",20,NA
+1574,87,2028-05-20 14:02:26,"QALY",21,NA
+1575,87,2028-05-20 15:02:26,"QALY",22,NA
+1576,87,2028-05-20 16:02:26,"DALY",0,NA
+1577,87,2002-06-20 10:14:58,"DALY",0,NA
+1578,87,2028-05-20 17:02:26,"DALY",0,NA
+1579,88,2002-06-20 11:14:58,"DALY",0,NA
+1580,88,2028-05-20 18:02:26,"DALY",0,NA
+1581,88,2002-06-20 12:14:58,"DALY",0,NA
+1582,88,2028-05-20 19:02:26,"DALY",0,NA
+1583,88,2002-06-20 13:14:58,"DALY",0,NA
+1584,89,2019-10-20 10:05:04,"DALY",0,NA
+1585,89,2002-06-20 14:14:58,"DALY",0,NA
+1586,89,2019-10-20 11:05:04,"DALY",0,NA
+1587,89,2002-06-20 15:14:58,"QOLS",1,NA
+1588,89,2019-10-20 12:05:04,"QOLS",1,NA
+1589,90,2002-06-20 16:14:58,"QOLS",1,NA
+1590,90,2019-10-20 13:05:04,"QOLS",1,NA
+1591,90,2002-06-20 17:14:58,"QOLS",1,NA
+1592,90,2019-10-20 14:05:04,"QOLS",1,NA
+1593,90,2002-06-20 18:14:58,"QOLS",1,NA
+1594,91,2019-10-20 15:05:04,"QOLS",1,NA
+1595,91,2002-06-20 19:14:58,"DALY",0,NA
+1596,91,2019-10-20 16:05:04,"QOLS",1,NA
+1597,91,2019-10-20 17:05:04,"DALY",0,NA
+1598,91,2019-10-20 18:05:04,"QOLS",1,NA
+1599,92,2019-10-20 19:05:04,"DALY",0,NA
+1600,92,2002-06-20 10:14:58,"DALY",0,NA
+1601,92,2002-06-20 11:14:58,"DALY",0,NA
+1602,92,2002-06-20 12:14:58,"DALY",0,NA
+1603,92,2019-10-20 10:05:04,"DALY",0,NA
+1604,93,2002-06-20 13:14:58,"DALY",0,NA
+1605,93,2002-06-20 14:14:58,"DALY",0,NA
+1606,93,2002-06-20 15:14:58,"QOLS",1,NA
+1607,93,2002-06-20 16:14:58,"QOLS",1,NA
+1608,93,2002-06-20 17:14:58,"QOLS",1,NA
+1609,94,2002-06-20 18:14:58,"QOLS",1,NA
+1610,94,2002-06-20 19:14:58,"QOLS",1,NA
+1611,94,2002-06-20 10:14:58,"QOLS",1,NA
+1612,94,2002-06-20 11:14:58,"QOLS",1,NA
+1613,94,2002-06-20 12:14:58,"QOLS",1,NA
+1614,95,2002-06-20 13:14:58,"QOLS",1,NA
+1615,95,2002-06-20 14:14:58,"QOLS",1,NA
+1616,95,2002-06-20 15:14:58,"Body Height",49.7,NA
+1617,95,2002-06-20 16:14:58,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",0,NA
+1618,95,2002-06-20 17:14:58,"Body Weight",3.5,NA
+1619,96,2019-10-20 11:05:04,"Weight-for-length Per age and sex",52.1,NA
+1620,96,2002-06-20 18:14:58,"Head Occipital-frontal circumference",33.3,NA
+1621,96,2019-10-20 12:05:04,"Diastolic Blood Pressure",88,NA
+1622,96,2002-06-20 19:14:58,"Systolic Blood Pressure",120,NA
+1623,96,2019-10-20 13:05:04,"Heart rate",99,NA
+1624,97,2019-10-20 14:05:04,"Respiratory rate",16,NA
+1625,97,2019-10-20 15:05:04,"Leukocytes [#/volume] in Blood by Automated count",4.9,NA
+1626,97,2019-10-20 16:05:04,"Erythrocytes [#/volume] in Blood by Automated count",5.4,NA
+1627,97,2019-10-20 17:05:04,"Hemoglobin [Mass/volume] in Blood",14.3,NA
+1628,97,2019-10-20 18:05:04,"Hematocrit [Volume Fraction] of Blood by Automated count",39.3,NA
+1629,98,2019-10-20 19:05:04,"MCV [Entitic volume] by Automated count",91,NA
+1630,98,2019-10-20 10:05:04,"MCH [Entitic mass] by Automated count",29.6,NA
+1631,98,2019-10-20 11:05:04,"MCHC [Mass/volume] by Automated count",33.6,NA
+1632,98,2019-10-20 12:05:04,"Erythrocyte distribution width [Entitic volume] by Automated count",41.6,NA
+1633,98,2019-10-20 13:05:04,"Platelets [#/volume] in Blood by Automated count",182.1,NA
+1634,99,2019-10-20 14:05:04,"Platelet distribution width [Entitic volume] in Blood by Automated count",276.6,NA
+1635,99,2019-10-20 15:05:04,"Platelet mean volume [Entitic volume] in Blood by Automated count",9.8,NA
+1636,99,2019-10-20 16:05:04,"Body Height",53.8,NA
+1637,99,2019-10-20 17:05:04,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1638,99,2019-10-20 18:05:04,"Body Weight",4.3,NA
+1639,100,2019-10-20 19:05:04,"Weight-for-length Per age and sex",34.5,NA
+1640,100,2028-07-20 17:05:08,"Head Occipital-frontal circumference",37.2,NA
+1641,100,2028-07-20 17:05:08,"Diastolic Blood Pressure",83,NA
+1642,100,2028-07-20 17:05:08,"Systolic Blood Pressure",117,NA
+1643,100,2028-07-20 17:05:08,"Heart rate",83,NA
+1644,101,2028-07-20 17:05:08,"Respiratory rate",15,NA
+1645,101,2028-07-20 17:05:08,"Body Height",59.3,NA
+1646,101,2028-07-20 17:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1647,101,2028-07-20 17:05:08,"Body Weight",5.7,NA
+1648,101,2028-07-20 17:05:08,"Weight-for-length Per age and sex",45.5,NA
+1649,102,2028-07-20 17:05:08,"Head Occipital-frontal circumference",40,NA
+1650,102,2028-07-20 17:05:08,"Diastolic Blood Pressure",86,NA
+1651,102,2028-07-20 17:05:08,"Systolic Blood Pressure",132,NA
+1652,102,2028-07-20 17:05:08,"Body Height",110.5,NA
+1653,102,2028-07-20 17:05:08,"Heart rate",62,NA
+1654,103,2028-07-20 17:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1655,103,2028-07-20 17:05:08,"Respiratory rate",15,NA
+1656,103,2028-07-20 17:05:08,"Body Weight",23.6,NA
+1657,103,2028-07-20 17:05:08,"Body Mass Index",19.3,NA
+1658,103,2028-07-20 17:05:08,"Body mass index (BMI) [Percentile] Per age and gender",94.3,NA
+1659,104,2028-07-20 17:05:08,"Diastolic Blood Pressure",81,NA
+1660,104,2028-07-20 17:05:08,"Systolic Blood Pressure",129,NA
+1661,104,2001-09-20 17:05:08,"Heart rate",66,NA
+1662,104,2001-09-20 17:05:08,"Respiratory rate",12,NA
+1663,104,2001-09-20 17:05:08,"Body Height",63.2,NA
+1664,105,2001-09-20 17:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1665,105,2001-09-20 17:05:08,"Body Weight",6.9,NA
+1666,105,2001-09-20 17:05:08,"Body Height",115.9,NA
+1667,105,2001-09-20 17:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1668,105,2001-09-20 17:05:08,"Body Weight",26,NA
+1669,106,2001-09-20 17:05:08,"Body Mass Index",19.3,NA
+1670,106,2001-09-20 17:05:08,"Body mass index (BMI) [Percentile] Per age and gender",91.2,NA
+1671,106,2003-11-20 17:04:08,"Diastolic Blood Pressure",82,NA
+1672,106,2003-11-20 17:04:08,"Systolic Blood Pressure",126,NA
+1673,106,2003-11-20 17:04:08,"Heart rate",62,NA
+1674,107,2003-11-20 17:04:08,"Respiratory rate",13,NA
+1675,107,2003-11-20 17:04:08,"Body Height",120.9,NA
+1676,107,2003-11-20 17:04:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1677,107,2003-11-20 17:04:08,"Body Weight",32.3,NA
+1678,107,2004-12-20 10:07:21,"Body Mass Index",22.1,NA
+1679,108,2003-11-20 17:04:08,"Body mass index (BMI) [Percentile] Per age and gender",95.5,NA
+1680,108,2004-12-20 10:07:21,"Diastolic Blood Pressure",83,NA
+1681,108,2003-11-20 17:04:08,"Systolic Blood Pressure",105,NA
+1682,108,2004-12-20 10:07:21,"Heart rate",84,NA
+1683,108,2003-11-20 17:04:08,"Respiratory rate",14,NA
+1684,109,2004-12-20 10:07:21,"Body Height",124.9,NA
+1685,109,2004-12-20 10:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1686,109,2004-12-20 10:07:21,"Body Weight",36.8,NA
+1687,109,2004-12-20 10:07:21,"Body Mass Index",23.6,NA
+1688,109,2004-12-20 10:07:21,"Body mass index (BMI) [Percentile] Per age and gender",96,NA
+1689,110,2004-12-20 10:07:21,"Diastolic Blood Pressure",78,NA
+1690,110,2004-12-20 10:07:21,"Systolic Blood Pressure",113,NA
+1691,110,2005-01-20 18:04:08,"Heart rate",98,NA
+1692,110,2005-01-20 18:04:08,"Respiratory rate",16,NA
+1693,110,2005-01-20 18:04:08,"Body Height",129.5,NA
+1694,111,2010-12-20 11:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1695,111,2010-12-20 11:07:21,"Weight-for-length Per age and sex",57.3,NA
+1696,111,2010-12-20 11:07:21,"Body Weight",41.1,NA
+1697,111,2010-12-20 11:07:21,"Head Occipital-frontal circumference",41.8,NA
+1698,111,2010-12-20 11:07:21,"Body Mass Index",24.5,NA
+1699,112,2010-12-20 11:07:21,"Body mass index (BMI) [Percentile] Per age and gender",95.5,NA
+1700,112,2010-12-20 11:07:21,"Diastolic Blood Pressure",78,NA
+1701,112,2010-12-20 11:07:21,"Diastolic Blood Pressure",78,NA
+1702,112,2010-12-20 11:07:21,"Systolic Blood Pressure",131,NA
+1703,112,2010-12-20 11:07:21,"Systolic Blood Pressure",139,NA
+1704,113,2015-12-20 12:07:21,"Heart rate",67,NA
+1705,113,2015-12-20 12:07:21,"Heart rate",96,NA
+1706,113,2015-12-20 12:07:21,"Respiratory rate",16,NA
+1707,113,2015-12-20 12:07:21,"Respiratory rate",14,NA
+1708,113,2015-12-20 12:07:21,"Leukocytes [#/volume] in Blood by Automated count",5.8,NA
+1709,114,2015-12-20 12:07:21,"Erythrocytes [#/volume] in Blood by Automated count",4.2,NA
+1710,114,2015-12-20 12:07:21,"Hemoglobin [Mass/volume] in Blood",14.7,NA
+1711,114,2015-12-20 12:07:21,"Hematocrit [Volume Fraction] of Blood by Automated count",42.1,NA
+1712,114,2015-12-20 12:07:21,"MCV [Entitic volume] by Automated count",91.1,NA
+1713,114,2015-12-20 12:07:21,"MCH [Entitic mass] by Automated count",29.1,NA
+1714,115,2021-12-20 13:07:21,"MCHC [Mass/volume] by Automated count",34.6,NA
+1715,115,2021-12-20 13:07:21,"Erythrocyte distribution width [Entitic volume] by Automated count",42.8,NA
+1716,115,2021-12-20 13:07:21,"Platelets [#/volume] in Blood by Automated count",425.1,NA
+1717,115,2021-12-20 13:07:21,"Body Height",67.9,NA
+1718,115,2021-12-20 13:07:21,"Platelet distribution width [Entitic volume] in Blood by Automated count",398.5,NA
+1719,116,2021-12-20 13:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1720,116,2021-12-20 13:07:21,"Platelet mean volume [Entitic volume] in Blood by Automated count",11.4,NA
+1721,116,2021-12-20 13:07:21,"Body Weight",8.3,NA
+1722,116,2021-12-20 13:07:21,"Weight-for-length Per age and sex",64.1,NA
+1723,116,2021-12-20 13:07:21,"Head Occipital-frontal circumference",43.6,NA
+1724,117,2027-12-20 14:07:21,"Diastolic Blood Pressure",75,NA
+1725,117,2027-12-20 14:07:21,"Systolic Blood Pressure",108,NA
+1726,117,2005-01-20 18:04:08,"Heart rate",73,NA
+1727,117,2027-12-20 14:07:21,"Respiratory rate",15,NA
+1728,117,2005-01-20 18:04:08,"Body Height",136.1,NA
+1729,118,2027-12-20 14:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1730,118,2027-12-20 14:07:21,"Body Weight",47.2,NA
+1731,118,2027-12-20 14:07:21,"Body Mass Index",25.5,NA
+1732,118,2005-01-20 18:04:08,"Body mass index (BMI) [Percentile] Per age and gender",95.3,NA
+1733,118,2027-12-20 14:07:21,"Diastolic Blood Pressure",81,NA
+1734,119,2005-01-20 18:04:08,"Systolic Blood Pressure",122,NA
+1735,119,2027-12-20 14:07:21,"Heart rate",79,NA
+1736,119,2005-01-20 18:04:08,"Respiratory rate",16,NA
+1737,119,2027-12-20 14:07:21,"Body Height",71.7,NA
+1738,119,2005-01-20 18:04:08,"Body Height",143,NA
+1739,120,2027-12-20 14:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1740,120,2005-01-20 18:04:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1741,120,2027-12-20 14:07:21,"Body Weight",9.3,NA
+1742,120,2027-12-20 14:07:21,"Body Weight",48.7,NA
+1743,120,2027-12-20 14:07:21,"Weight-for-length Per age and sex",64.2,NA
+1744,121,2027-12-20 14:07:21,"Body Mass Index",23.8,NA
+1745,121,2027-12-20 14:07:21,"Head Occipital-frontal circumference",44.7,NA
+1746,121,2027-12-20 14:07:21,"Body mass index (BMI) [Percentile] Per age and gender",89.7,NA
+1747,121,2027-12-20 14:07:21,"Diastolic Blood Pressure",75,NA
+1748,121,2027-12-20 14:07:21,"Diastolic Blood Pressure",77,NA
+1749,122,2006-04-20 18:05:08,"Systolic Blood Pressure",118,NA
+1750,122,2027-12-20 14:07:21,"Systolic Blood Pressure",118,NA
+1751,122,2006-04-20 18:05:08,"Heart rate",98,NA
+1752,122,2027-12-20 14:07:21,"Heart rate",88,NA
+1753,122,2006-04-20 18:05:08,"Respiratory rate",15,NA
+1754,123,2027-12-20 14:07:21,"Respiratory rate",13,NA
+1755,123,2006-04-20 18:05:08,"Body Height",74.9,NA
+1756,123,2006-04-20 18:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1757,123,2006-04-20 18:05:08,"Body Weight",10,NA
+1758,123,2006-04-20 18:05:08,"Weight-for-length Per age and sex",63,NA
+1759,124,2006-04-20 18:05:08,"Head Occipital-frontal circumference",45.5,NA
+1760,124,2006-04-20 18:05:08,"Diastolic Blood Pressure",82,NA
+1761,124,2006-04-20 18:05:08,"Systolic Blood Pressure",104,NA
+1762,124,2002-01-20 16:07:21,"Heart rate",97,NA
+1763,124,2002-01-20 16:07:21,"Respiratory rate",12,NA
+1764,125,2002-01-20 16:07:21,"Body Height",146.8,NA
+1765,125,2002-01-20 16:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",0,NA
+1766,125,2002-01-20 16:07:21,"Body Weight",52.5,NA
+1767,125,2002-01-20 16:07:21,"Body Mass Index",24.4,NA
+1768,125,2002-01-20 16:07:21,"Body mass index (BMI) [Percentile] Per age and gender",89.1,NA
+1769,126,2002-01-20 16:07:21,"Diastolic Blood Pressure",73,NA
+1770,126,2002-01-20 16:07:21,"Systolic Blood Pressure",126,NA
+1771,126,2002-01-20 16:07:21,"Heart rate",79,NA
+1772,126,2006-07-20 18:05:08,"Respiratory rate",14,NA
+1773,126,2007-01-20 17:07:21,"Body Height",147.2,NA
+1774,127,2006-07-20 18:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1775,127,2007-01-20 17:07:21,"Body Weight",52.6,NA
+1776,127,2006-07-20 18:05:08,"Body Mass Index",24.3,NA
+1777,127,2007-01-20 17:07:21,"Body mass index (BMI) [Percentile] Per age and gender",88.4,NA
+1778,127,2006-07-20 18:05:08,"Diastolic Blood Pressure",77,NA
+1779,128,2007-01-20 17:07:21,"Systolic Blood Pressure",116,NA
+1780,128,2006-07-20 18:05:08,"Heart rate",79,NA
+1781,128,2007-01-20 17:07:21,"Respiratory rate",15,NA
+1782,128,2006-07-20 18:05:08,"Body Height",148.7,NA
+1783,128,2007-01-20 17:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1784,129,2006-07-20 18:05:08,"Body Weight",51.8,NA
+1785,129,2007-01-20 17:07:21,"Body Mass Index",23.4,NA
+1786,129,2006-07-20 18:05:08,"Body mass index (BMI) [Percentile] Per age and gender",81.6,NA
+1787,129,2007-01-20 17:07:21,"Diastolic Blood Pressure",80,NA
+1788,129,2006-07-20 18:05:08,"Systolic Blood Pressure",133,NA
+1789,130,2007-01-20 17:07:21,"Heart rate",73,NA
+1790,130,2006-07-20 18:05:08,"Respiratory rate",16,NA
+1791,130,2007-01-20 17:07:21,"Body Height",149.3,NA
+1792,130,2005-10-20 18:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1793,130,2005-10-20 18:05:08,"Body Weight",48.9,NA
+1794,131,2005-10-20 18:05:08,"Body Mass Index",21.9,NA
+1795,131,2005-10-20 18:05:08,"Body mass index (BMI) [Percentile] Per age and gender",66.7,NA
+1796,131,2005-10-20 18:05:08,"Diastolic Blood Pressure",80,NA
+1797,131,2005-10-20 18:05:08,"Systolic Blood Pressure",114,NA
+1798,131,2005-10-20 18:05:08,"Heart rate",83,NA
+1799,132,2005-10-20 18:05:08,"Respiratory rate",14,NA
+1800,132,2005-10-20 18:05:08,"Body Height",77.8,NA
+1801,132,2005-10-20 18:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1802,132,2018-11-20 17:07:21,"Body Weight",10.6,NA
+1803,132,2018-11-20 17:07:21,"Weight-for-length Per age and sex",58,NA
+1804,133,2018-11-20 17:07:21,"Head Occipital-frontal circumference",46.1,NA
+1805,133,2018-11-20 17:07:21,"Body Height",149.3,NA
+1806,133,2018-11-20 17:07:21,"Diastolic Blood Pressure",86,NA
+1807,133,2018-11-20 17:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1808,133,2018-11-20 17:07:21,"Systolic Blood Pressure",134,NA
+1809,134,2018-11-20 17:07:21,"Body Weight",48.4,NA
+1810,134,2018-11-20 17:07:21,"Heart rate",63,NA
+1811,134,2018-11-20 17:07:21,"Body Mass Index",21.7,NA
+1812,134,2013-01-20 18:07:21,"Respiratory rate",16,NA
+1813,134,2013-01-20 18:07:21,"Body mass index (BMI) [Percentile] Per age and gender",64.2,NA
+1814,135,2013-01-20 18:07:21,"Diastolic Blood Pressure",73,NA
+1815,135,2013-01-20 18:07:21,"Systolic Blood Pressure",123,NA
+1816,135,2013-01-20 18:07:21,"Heart rate",64,NA
+1817,135,2013-01-20 18:07:21,"Respiratory rate",12,NA
+1818,135,2013-01-20 18:07:21,"Leukocytes [#/volume] in Blood by Automated count",7.3,NA
+1819,136,2013-01-20 18:07:21,"Erythrocytes [#/volume] in Blood by Automated count",4.9,NA
+1820,136,2013-01-20 18:07:21,"Hemoglobin [Mass/volume] in Blood",15.2,NA
+1821,136,2013-01-20 18:07:21,"Hematocrit [Volume Fraction] of Blood by Automated count",48.6,NA
+1822,136,2019-01-20 19:07:21,"MCV [Entitic volume] by Automated count",93.3,NA
+1823,136,2019-01-20 19:07:21,"MCH [Entitic mass] by Automated count",29.4,NA
+1824,137,2019-01-20 19:07:21,"Body Height",82.7,NA
+1825,137,2019-01-20 19:07:21,"MCHC [Mass/volume] by Automated count",35.8,NA
+1826,137,2019-01-20 19:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1827,137,2019-01-20 19:07:21,"Erythrocyte distribution width [Entitic volume] by Automated count",44.6,NA
+1828,137,2019-01-20 19:07:21,"Body Weight",11.5,NA
+1829,138,2019-01-20 19:07:21,"Platelets [#/volume] in Blood by Automated count",188.4,NA
+1830,138,2019-01-20 19:07:21,"Weight-for-length Per age and sex",47,NA
+1831,138,2019-01-20 19:07:21,"Platelet distribution width [Entitic volume] in Blood by Automated count",360.1,NA
+1832,138,2014-12-20 19:07:21,"Head Occipital-frontal circumference",46.9,NA
+1833,138,2014-12-20 19:07:21,"Platelet mean volume [Entitic volume] in Blood by Automated count",10,NA
+1834,139,2014-12-20 19:07:21,"Diastolic Blood Pressure",73,NA
+1835,139,2014-12-20 19:07:21,"Systolic Blood Pressure",106,NA
+1836,139,2014-12-20 19:07:21,"Heart rate",74,NA
+1837,139,2014-12-20 19:07:21,"Respiratory rate",16,NA
+1838,139,2014-12-20 19:07:21,"QALY",6,NA
+1839,140,2014-12-20 19:07:21,"QALY",7,NA
+1840,140,2014-12-20 19:07:21,"Body Height",86.3,NA
+1841,140,2014-12-20 19:07:21,"QALY",8,NA
+1842,140,2004-01-20 19:04:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",0,NA
+1843,140,2004-01-20 19:04:08,"Body Weight",12.3,NA
+1844,141,2004-01-20 19:04:08,"QALY",9,NA
+1845,141,2004-01-20 19:04:08,"Weight-for-length Per age and sex",52.5,NA
+1846,141,2004-01-20 19:04:08,"Head Occipital-frontal circumference",47.4,NA
+1847,141,2025-01-20 20:07:21,"QALY",10,NA
+1848,141,2004-01-20 19:04:08,"Body Mass Index",16.5,NA
+1849,142,2025-01-20 20:07:21,"Body mass index (BMI) [Percentile] Per age and gender",55,NA
+1850,142,2004-01-20 19:04:08,"QALY",11,NA
+1851,142,2025-01-20 20:07:21,"Diastolic Blood Pressure",80,NA
+1852,142,2004-01-20 19:04:08,"QALY",12,NA
+1853,142,2025-01-20 20:07:21,"Systolic Blood Pressure",120,NA
+1854,143,2004-01-20 19:04:08,"Heart rate",69,NA
+1855,143,2004-01-20 19:04:08,"QALY",13,NA
+1856,143,2025-01-20 20:07:21,"Respiratory rate",14,NA
+1857,143,2025-01-20 20:07:21,"QALY",14,NA
+1858,143,2025-01-20 20:07:21,"QALY",15,NA
+1859,144,2025-01-20 20:07:21,"QALY",0,NA
+1860,144,2025-01-20 20:07:21,"DALY",0,NA
+1861,144,2025-01-20 20:07:21,"QALY",0,NA
+1862,144,2025-01-20 20:07:21,"DALY",0,NA
+1863,144,2025-01-20 20:07:21,"QALY",1,NA
+1864,145,2025-01-20 20:07:21,"DALY",0,NA
+1865,145,2025-01-20 20:07:21,"DALY",0,NA
+1866,145,2025-01-20 20:07:21,"DALY",0,NA
+1867,145,2005-07-20 19:05:08,"DALY",0,NA
+1868,145,2025-01-20 20:07:21,"DALY",0,NA
+1869,146,2005-07-20 19:05:08,"DALY",0,NA
+1870,146,2025-01-20 20:07:21,"DALY",0,NA
+1871,146,2005-07-20 19:05:08,"QOLS",1,NA
+1872,146,2025-01-20 20:07:21,"DALY",0,NA
+1873,146,2005-07-20 19:05:08,"QOLS",1,NA
+1874,147,2025-01-20 20:07:21,"DALY",0,NA
+1875,147,2005-07-20 19:05:08,"QOLS",1,NA
+1876,147,2025-01-20 20:07:21,"DALY",0,NA
+1877,147,2005-07-20 19:05:08,"DALY",0,NA
+1878,147,2025-01-20 20:07:21,"QOLS",1,NA
+1879,148,2005-07-20 19:05:08,"QOLS",1,NA
+1880,148,2005-07-20 19:05:08,"QOLS",1,NA
+1881,148,2005-07-20 19:05:08,"QOLS",1,NA
+1882,148,2005-07-20 19:05:08,"QOLS",1,NA
+1883,148,2013-12-20 10:07:21,"QOLS",1,NA
+1884,149,2013-12-20 11:07:21,"QOLS",1,NA
+1885,149,2003-01-20 20:04:08,"QOLS",1,NA
+1886,149,2013-12-20 12:07:21,"QOLS",1,NA
+1887,149,2003-01-20 20:04:08,"QOLS",1,NA
+1888,149,2003-01-20 20:04:08,"Body Height",49.9,NA
+1889,150,2013-12-20 13:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1890,150,2003-01-20 20:04:08,"Body Weight",3.8,NA
+1891,150,2003-01-20 20:04:08,"Weight-for-length Per age and sex",79.9,NA
+1892,150,2013-12-20 14:07:21,"Head Occipital-frontal circumference",33.5,NA
+1893,150,2003-01-20 20:04:08,"Diastolic Blood Pressure",79,NA
+1894,151,2003-01-20 20:04:08,"Systolic Blood Pressure",112,NA
+1895,151,2013-12-20 15:07:21,"Heart rate",69,NA
+1896,151,2003-01-20 20:04:08,"Respiratory rate",16,NA
+1897,151,2013-12-20 16:07:21,"Leukocytes [#/volume] in Blood by Automated count",6,NA
+1898,151,2003-01-20 20:04:08,"Erythrocytes [#/volume] in Blood by Automated count",4.1,NA
+1899,152,2003-01-20 20:04:08,"Hemoglobin [Mass/volume] in Blood",15.5,NA
+1900,152,2013-12-20 17:07:21,"Hematocrit [Volume Fraction] of Blood by Automated count",40.2,NA
+1901,152,2003-01-20 20:04:08,"MCV [Entitic volume] by Automated count",80.8,NA
+1902,152,2003-01-20 20:04:08,"MCH [Entitic mass] by Automated count",29.8,NA
+1903,152,2013-12-20 18:07:21,"MCHC [Mass/volume] by Automated count",33.2,NA
+1904,153,2013-12-20 19:07:21,"Erythrocyte distribution width [Entitic volume] by Automated count",40.9,NA
+1905,153,2028-07-20 17:05:08,"Platelets [#/volume] in Blood by Automated count",273.4,NA
+1906,153,2013-12-20 10:07:21,"Platelet distribution width [Entitic volume] in Blood by Automated count",377.9,NA
+1907,153,2028-07-20 18:05:08,"Platelet mean volume [Entitic volume] in Blood by Automated count",10.4,NA
+1908,153,2013-12-20 11:07:21,"Body Height",53.5,NA
+1909,154,2028-07-20 19:05:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1910,154,2013-12-20 12:07:21,"Body Weight",4.6,NA
+1911,154,2028-07-20 17:05:08,"Weight-for-length Per age and sex",64,NA
+1912,154,2013-12-20 13:07:21,"Head Occipital-frontal circumference",36.9,NA
+1913,154,2028-07-20 18:05:08,"Diastolic Blood Pressure",75,NA
+1914,155,2013-12-20 14:07:21,"Systolic Blood Pressure",112,NA
+1915,155,2028-07-20 19:05:08,"Heart rate",91,NA
+1916,155,2013-12-20 15:07:21,"Respiratory rate",14,NA
+1917,155,2028-07-20 17:05:08,"Body Height",58.6,NA
+1918,155,2013-12-20 16:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1919,156,2028-07-20 18:05:08,"Body Weight",5.9,NA
+1920,156,2013-12-20 17:07:21,"Weight-for-length Per age and sex",64.8,NA
+1921,156,2028-07-20 19:05:08,"Head Occipital-frontal circumference",39.5,NA
+1922,156,2013-12-20 18:07:21,"Diastolic Blood Pressure",78,NA
+1923,156,2013-12-20 19:07:21,"Systolic Blood Pressure",128,NA
+1924,157,2013-12-20 10:07:21,"Heart rate",79,NA
+1925,157,2013-12-20 11:07:21,"Respiratory rate",13,NA
+1926,157,2013-12-20 12:07:21,"Body Height",62.4,NA
+1927,157,2013-12-20 13:07:21,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1928,157,2013-12-20 14:07:21,"Body Weight",7,NA
+1929,158,2013-12-20 15:07:21,"Weight-for-length Per age and sex",80.4,NA
+1930,158,2013-12-20 16:07:21,"Head Occipital-frontal circumference",41.1,NA
+1931,158,2013-12-20 17:07:21,"Diastolic Blood Pressure",83,NA
+1932,158,2013-12-20 18:07:21,"Systolic Blood Pressure",108,NA
+1933,158,2013-12-20 19:07:21,"Heart rate",93,NA
+1934,159,2015-05-20 19:08:27,"Respiratory rate",13,NA
+1935,159,2015-05-20 19:08:27,"Body Height",67.1,NA
+1936,159,2015-05-20 19:08:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1937,159,2015-05-20 19:08:27,"Body Weight",8.3,NA
+1938,159,2015-05-20 19:08:27,"Weight-for-length Per age and sex",79.6,NA
+1939,160,2015-05-20 19:08:27,"Head Occipital-frontal circumference",42.8,NA
+1940,160,2015-05-20 19:08:27,"Diastolic Blood Pressure",72,NA
+1941,160,2015-05-20 19:08:27,"Systolic Blood Pressure",112,NA
+1942,160,2015-05-20 19:08:27,"Heart rate",96,NA
+1943,160,2015-05-20 19:08:27,"Respiratory rate",15,NA
+1944,161,2015-05-20 19:08:27,"Body Height",70.9,NA
+1945,161,2015-05-20 19:08:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1946,161,2015-05-20 19:08:27,"Body Weight",9.4,NA
+1947,161,2015-05-20 19:08:27,"Weight-for-length Per age and sex",82.3,NA
+1948,161,2015-05-20 19:08:27,"Head Occipital-frontal circumference",43.9,NA
+1949,162,2015-05-20 19:08:27,"Diastolic Blood Pressure",77,NA
+1950,162,2015-05-20 19:08:27,"Systolic Blood Pressure",136,NA
+1951,162,2015-05-20 19:08:27,"Heart rate",98,NA
+1952,162,2015-05-20 19:08:27,"Respiratory rate",14,NA
+1953,162,2015-05-20 19:08:27,"QALY",0,NA
+1954,163,2015-05-20 19:08:27,"DALY",0,NA
+1955,163,2019-06-20 19:08:27,"QOLS",1,NA
+1956,163,2019-06-20 19:08:27,"Body Height",157.9,NA
+1957,163,2019-06-20 19:08:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+1958,163,2019-06-20 19:08:27,"Body Weight",68.5,NA
+1959,164,2019-06-20 19:08:27,"Body Mass Index",27.5,NA
+1960,164,2019-06-20 19:08:27,"Diastolic Blood Pressure",83,NA
+1961,164,2019-06-20 19:08:27,"Systolic Blood Pressure",107,NA
+1962,164,2019-06-20 19:08:27,"Heart rate",93,NA
+1963,164,2019-06-20 19:08:27,"Respiratory rate",13,NA
+1964,165,2019-06-20 19:08:27,"Leukocytes [#/volume] in Blood by Automated count",9.5,NA
+1965,165,2021-08-20 19:08:27,"Erythrocytes [#/volume] in Blood by Automated count",4.6,NA
+1966,165,2021-08-20 19:08:27,"Hemoglobin [Mass/volume] in Blood",16.2,NA
+1967,165,2021-08-20 19:08:27,"Hematocrit [Volume Fraction] of Blood by Automated count",46.4,NA
+1968,165,2021-08-20 19:08:27,"MCV [Entitic volume] by Automated count",92.7,NA
+1969,166,2021-08-20 19:08:27,"MCH [Entitic mass] by Automated count",27.7,NA
+1970,166,2021-08-20 19:08:27,"MCHC [Mass/volume] by Automated count",33,NA
+1971,166,2021-08-20 19:08:27,"Erythrocyte distribution width [Entitic volume] by Automated count",42.4,NA
+1972,166,2021-08-20 19:08:27,"Platelets [#/volume] in Blood by Automated count",267.3,NA
+1973,166,2021-08-20 19:08:27,"Platelet distribution width [Entitic volume] in Blood by Automated count",262.4,NA
+1974,167,2021-08-20 19:08:27,"Platelet mean volume [Entitic volume] in Blood by Automated count",11.7,NA
+1975,167,2023-10-20 19:08:27,"Body Height",157.9,NA
+1976,167,2023-10-20 19:08:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+1977,167,2023-10-20 19:08:27,"Body Weight",68.5,NA
+1978,167,2023-10-20 19:08:27,"Body Mass Index",27.5,NA
+1979,168,2023-10-20 19:08:27,"Diastolic Blood Pressure",81,NA
+1980,168,2023-10-20 19:08:27,"Systolic Blood Pressure",117,NA
+1981,168,2023-10-20 19:08:27,"Heart rate",69,NA
+1982,168,2023-10-20 19:08:27,"Respiratory rate",14,NA
+1983,168,2023-10-20 19:08:27,"Total Cholesterol",175.9,NA
+1984,169,2023-10-20 19:08:27,"Triglycerides",113.2,NA
+1985,169,2022-01-20 20:07:27,"Low Density Lipoprotein Cholesterol",83.4,NA
+1986,169,2022-01-20 20:07:27,"High Density Lipoprotein Cholesterol",69.9,NA
+1987,169,2022-01-20 20:07:27,"Body Height",157.9,NA
+1988,169,2022-01-20 20:07:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+1989,170,2022-01-20 20:07:27,"Body Weight",68.5,NA
+1990,170,2022-01-20 20:07:27,"Body Mass Index",27.5,NA
+1991,170,2022-01-20 20:07:27,"Diastolic Blood Pressure",76,NA
+1992,170,2022-01-20 20:07:27,"Systolic Blood Pressure",129,NA
+1993,170,2022-01-20 20:07:27,"Heart rate",96,NA
+1994,171,2022-01-20 20:07:27,"Respiratory rate",16,NA
+1995,171,2022-04-20 20:08:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",6,NA
+1996,171,2022-04-20 20:08:27,"Body Height",157.9,NA
+1997,171,2022-04-20 20:08:27,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+1998,171,2022-04-20 20:08:27,"Body Weight",68.5,NA
+1999,172,2022-04-20 20:08:27,"Body Mass Index",27.5,NA
+2000,172,2022-04-20 20:08:27,"Diastolic Blood Pressure",86,NA
+2001,172,2022-04-20 20:08:27,"Systolic Blood Pressure",118,NA
+2002,172,2022-04-20 20:08:27,"Heart rate",87,NA
+2003,172,2022-04-20 20:08:27,"Respiratory rate",13,NA
+2004,173,2022-04-20 20:08:27,"Total Cholesterol",162.4,NA
+2005,173,2015-05-20 19:08:27,"Triglycerides",147.8,NA
+2006,173,2015-05-20 19:08:27,"Low Density Lipoprotein Cholesterol",58.4,NA
+2007,173,2015-05-20 19:08:27,"High Density Lipoprotein Cholesterol",74.4,NA
+2008,173,2022-05-20 10:17:35,"Leukocytes [#/volume] in Blood by Automated count",10.3,NA
+2009,174,2022-05-20 10:17:35,"Erythrocytes [#/volume] in Blood by Automated count",4.2,NA
+2010,174,2022-05-20 10:17:35,"Hemoglobin [Mass/volume] in Blood",13.4,NA
+2011,174,2022-05-20 10:17:35,"Hematocrit [Volume Fraction] of Blood by Automated count",41.2,NA
+2012,174,2022-05-20 10:17:35,"MCV [Entitic volume] by Automated count",84.3,NA
+2013,174,2022-05-20 10:17:35,"MCH [Entitic mass] by Automated count",30.9,NA
+2014,175,2022-05-20 10:17:35,"MCHC [Mass/volume] by Automated count",35.8,NA
+2015,175,2022-05-20 10:17:35,"Erythrocyte distribution width [Entitic volume] by Automated count",45.1,NA
+2016,175,2022-05-20 10:17:35,"Platelets [#/volume] in Blood by Automated count",201.4,NA
+2017,175,2022-05-20 10:17:35,"Platelet distribution width [Entitic volume] in Blood by Automated count",460.4,NA
+2018,175,2022-05-20 10:17:35,"Platelet mean volume [Entitic volume] in Blood by Automated count",10.4,NA
+2019,176,2022-05-20 10:17:35,"Body Height",157.9,NA
+2020,176,2022-05-20 10:17:35,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+2021,176,2022-05-20 10:17:35,"Body Weight",68.5,NA
+2022,176,2022-05-20 10:17:35,"Body Mass Index",27.5,NA
+2023,176,2022-05-20 10:17:35,"Diastolic Blood Pressure",83,NA
+2024,177,2022-05-20 10:17:35,"Systolic Blood Pressure",133,NA
+2025,177,2022-05-20 10:17:35,"Heart rate",65,NA
+2026,177,2022-05-20 10:17:35,"Respiratory rate",15,NA
+2027,177,2022-05-20 10:17:35,"QALY",39,NA
+2028,177,2026-05-20 12:17:35,"QALY",40,NA
+2029,178,2026-05-20 12:17:35,"QALY",41,NA
+2030,178,2026-05-20 12:17:35,"QALY",42,NA
+2031,178,2026-05-20 12:17:35,"QALY",43,NA
+2032,178,2026-05-20 12:17:35,"QALY",44,NA
+2033,178,2026-05-20 12:17:35,"QALY",45,NA
+2034,179,2026-05-20 12:17:35,"QALY",46,NA
+2035,179,2026-05-20 12:17:35,"QALY",46.9,NA
+2036,179,2026-05-20 12:17:35,"QALY",47.9,NA
+2037,179,2026-05-20 12:17:35,"DALY",0,NA
+2038,179,2026-05-20 12:17:35,"DALY",0,NA
+2039,180,2026-05-20 12:17:35,"DALY",0,NA
+2040,180,2026-05-20 12:17:35,"DALY",0,NA
+2041,180,2031-05-20 14:17:35,"DALY",0,NA
+2042,180,2031-05-20 14:17:35,"DALY",0,NA
+2043,180,2031-05-20 14:17:35,"DALY",0,NA
+2044,181,2031-05-20 14:17:35,"DALY",0,NA
+2045,181,2031-05-20 14:17:35,"DALY",0.1,NA
+2046,181,2031-05-20 14:17:35,"DALY",0.1,NA
+2047,181,2031-05-20 14:17:35,"QOLS",1,NA
+2048,181,2031-05-20 14:17:35,"QOLS",1,NA
+2049,182,2031-05-20 14:17:35,"QOLS",1,NA
+2050,182,2020-03-20 16:16:35,"QOLS",1,NA
+2051,182,2004-06-20 16:17:35,"QOLS",1,NA
+2052,182,2004-06-20 16:17:35,"QOLS",1,NA
+2053,182,2004-06-20 16:17:35,"QOLS",1,NA
+2054,183,2004-06-20 16:17:35,"QOLS",1,NA
+2055,183,2004-06-20 16:17:35,"QOLS",1,NA
+2056,183,2004-06-20 16:17:35,"QOLS",1,NA
+2057,183,2004-06-20 16:17:35,"Body Height",52.1,NA
+2058,183,2004-06-20 16:17:35,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+2059,184,2004-06-20 16:17:35,"Body Weight",4,NA
+2060,184,2004-06-20 16:17:35,"Weight-for-length Per age and sex",54,NA
+2061,184,2004-06-20 16:17:35,"Head Occipital-frontal circumference",35,NA
+2062,184,2004-06-20 16:17:35,"Diastolic Blood Pressure",80,NA
+2063,184,2004-06-20 16:17:35,"Systolic Blood Pressure",118,NA
+2064,185,2004-06-20 16:17:35,"Heart rate",91,NA
+2065,185,2004-06-20 16:17:35,"Respiratory rate",16,NA
+2066,185,2004-06-20 16:17:35,"Leukocytes [#/volume] in Blood by Automated count",8,NA
+2067,185,2004-06-20 16:17:35,"Erythrocytes [#/volume] in Blood by Automated count",4.8,NA
+2068,185,2004-06-20 16:17:35,"Hemoglobin [Mass/volume] in Blood",12.9,NA
+2069,186,2004-06-20 16:17:35,"Hematocrit [Volume Fraction] of Blood by Automated count",48.1,NA
+2070,186,2004-06-20 16:17:35,"MCV [Entitic volume] by Automated count",91.7,NA
+2071,186,2004-06-20 16:17:35,"MCH [Entitic mass] by Automated count",29.5,NA
+2072,186,2004-06-20 16:17:35,"MCHC [Mass/volume] by Automated count",35.6,NA
+2073,186,2004-06-20 16:17:35,"Erythrocyte distribution width [Entitic volume] by Automated count",45.7,NA
+2074,187,2004-06-20 16:17:35,"Platelets [#/volume] in Blood by Automated count",336.4,NA
+2075,187,2009-06-20 18:17:35,"Platelet distribution width [Entitic volume] in Blood by Automated count",198.8,NA
+2076,187,2009-06-20 18:17:35,"Platelet mean volume [Entitic volume] in Blood by Automated count",10.8,NA
+2077,187,2009-06-20 18:17:35,"Body Height",55.6,NA
+2078,187,2009-06-20 18:17:35,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+2079,188,2009-06-20 18:17:35,"Body Weight",4.8,NA
+2080,188,2009-06-20 18:17:35,"Weight-for-length Per age and sex",37.3,NA
+2081,188,2009-06-20 18:17:35,"Head Occipital-frontal circumference",38.2,NA
+2082,188,2009-06-20 18:17:35,"Diastolic Blood Pressure",80,NA
+2083,188,2009-06-20 18:17:35,"Systolic Blood Pressure",120,NA
+2084,189,2016-05-20 10:17:35,"Heart rate",69,NA
+2085,189,2016-05-20 11:17:35,"Respiratory rate",15,NA
+2086,189,2016-05-20 12:17:35,"Body Height",60.8,NA
+2087,189,2016-05-20 13:17:35,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+2088,189,2016-05-20 14:17:35,"Body Weight",6.1,NA
+2089,190,2016-05-20 15:17:35,"Weight-for-length Per age and sex",42.8,NA
+2090,190,2016-05-20 16:17:35,"Head Occipital-frontal circumference",40.7,NA
+2091,190,2016-05-20 17:17:35,"Diastolic Blood Pressure",76,NA
+2092,190,2016-05-20 18:17:35,"Systolic Blood Pressure",130,NA
+2093,190,2016-05-20 19:17:35,"Heart rate",97,NA
+2094,191,2016-05-20 10:17:35,"Respiratory rate",13,NA
+2095,191,2016-05-20 11:17:35,"Body Height",64.8,NA
+2096,191,2016-05-20 12:17:35,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+2097,191,2016-05-20 13:17:35,"Body Weight",7.3,NA
+2098,191,2016-05-20 14:17:35,"Weight-for-length Per age and sex",56.3,NA
+2099,192,2016-05-20 15:17:35,"Head Occipital-frontal circumference",42.3,NA
+2100,192,2016-05-20 16:17:35,"Diastolic Blood Pressure",77,NA
+2101,192,2016-05-20 17:17:35,"Systolic Blood Pressure",106,NA
+2102,192,2016-05-20 18:17:35,"Heart rate",99,NA
+2103,192,2016-05-20 19:17:35,"Respiratory rate",13,NA
+2104,193,2016-05-20 10:17:35,"Body temperature",37.1,NA
+2105,193,2016-05-20 11:17:35,"Body Height",69.6,NA
+2106,193,2016-05-20 12:17:35,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",2,NA
+2107,193,2016-05-20 13:17:35,"Body Weight",8.7,NA
+2108,193,2016-05-20 14:17:35,"Weight-for-length Per age and sex",65.1,NA
+2109,194,2016-05-20 15:17:35,"Head Occipital-frontal circumference",43.9,NA
+2110,194,2016-05-20 16:17:35,"Diastolic Blood Pressure",82,NA
+2111,194,2016-05-20 17:17:35,"Systolic Blood Pressure",132,NA
+2112,194,2016-05-20 18:17:35,"Heart rate",80,NA
+2113,194,2016-05-20 19:17:35,"Respiratory rate",15,NA
+2114,195,2004-07-20 16:12:08,"Body Height",73.6,NA
+2115,195,2004-07-20 16:12:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+2116,195,2004-07-20 16:12:08,"Body Weight",9.7,NA
+2117,195,2004-07-20 16:12:08,"Weight-for-length Per age and sex",67.1,NA
+2118,195,2004-07-20 16:12:08,"Head Occipital-frontal circumference",45.1,NA
+2119,196,2004-07-20 16:12:08,"Diastolic Blood Pressure",76,NA
+2120,196,2004-07-20 16:12:08,"Systolic Blood Pressure",111,NA
+2121,196,2004-07-20 16:12:08,"Heart rate",96,NA
+2122,196,2004-07-20 16:12:08,"Respiratory rate",13,NA
+2123,196,2004-07-20 16:12:08,"Body Height",77.1,NA
+2124,197,2004-07-20 16:12:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",4,NA
+2125,197,2004-07-20 16:12:08,"Body Weight",10.6,NA
+2126,197,2004-07-20 16:12:08,"Weight-for-length Per age and sex",74.8,NA
+2127,197,2004-07-20 16:12:08,"Head Occipital-frontal circumference",45.9,NA
+2128,197,2004-07-20 16:12:08,"Diastolic Blood Pressure",87,NA
+2129,198,2004-07-20 16:12:08,"Systolic Blood Pressure",133,NA
+2130,198,2004-07-20 16:12:08,"Heart rate",85,NA
+2131,198,2004-07-20 16:12:08,"Respiratory rate",13,NA
+2132,198,2004-07-20 16:12:08,"Body Height",80.3,NA
+2133,198,2004-07-20 16:12:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",3,NA
+2134,199,2004-07-20 16:12:08,"Body Weight",11.3,NA
+2135,199,2008-08-20 16:12:08,"Weight-for-length Per age and sex",75.1,NA
+2136,199,2008-08-20 16:12:08,"Head Occipital-frontal circumference",46.6,NA
+2137,199,2008-08-20 16:12:08,"Diastolic Blood Pressure",81,NA
+2138,199,2008-08-20 16:12:08,"Systolic Blood Pressure",119,NA
+2139,200,2008-08-20 16:12:08,"Heart rate",95,NA
+2140,200,2008-08-20 16:12:08,"Respiratory rate",15,NA
+2141,200,2008-08-20 16:12:08,"Body Height",85.9,NA
+2142,200,2008-08-20 16:12:08,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",1,NA
+2143,417,2015-11-20 11:03:23,"Hemoglobin A1c/Hemoglobin.total in Blood",5.9,NA

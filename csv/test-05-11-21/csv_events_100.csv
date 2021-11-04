@@ -1,0 +1,101 @@
+﻿hash,stat_unit,date,tag
+1,1,30/04/2011 02:26,Insertion of subcutaneous contraceptive
+2,1,03/08/2011 20:19,Evaluation of uterine fundal height
+3,1,04/12/2017 07:08,Medication Reconciliation (procedure)
+4,1,02/04/2019 14:11,Teleradiotherapy procedure (procedure)
+5,1,21/04/2020 04:44,Hemoglobin / Hematocrit / Platelet count
+6,1,28/04/2016 14:14,Influenza  seasonal  injectable  preservative free
+7,1,15/03/2019 22:26,zoster
+8,2,27/07/2010 14:58,Medication Reconciliation (procedure)
+9,2,03/08/2011 20:19,Auscultation of the fetal heart
+10,2,10/12/2018 07:08,Medication Reconciliation (procedure)
+11,2,03/04/2019 22:11,Teleradiotherapy procedure (procedure)
+12,2,21/04/2020 04:44,Vaccination for diphtheria  pertussis  and tetanus
+13,2,04/05/2017 14:14,Influenza  seasonal  injectable  preservative free
+14,2,15/03/2019 22:26,Influenza  seasonal  injectable  preservative free
+15,3,20/11/2010 04:04,Medication Reconciliation (procedure)
+16,3,03/08/2011 20:19,Blood typing  RH typing
+17,3,01/02/1987 06:28,Medication Reconciliation (procedure)
+18,3,05/04/2019 04:11,Teleradiotherapy procedure (procedure)
+19,3,21/04/2020 04:44,Urine screening for glucose
+20,3,10/05/2018 14:14,Influenza  seasonal  injectable  preservative free
+21,3,15/03/2019 22:26,Td (adult) preservative free
+22,4,07/02/2011 04:04,Throat culture (procedure)
+23,4,03/08/2011 20:19,Hemoglobin / Hematocrit / Platelet count
+24,4,03/05/1987 07:28,Medication Reconciliation (procedure)
+25,4,06/04/2019 11:11,Teleradiotherapy procedure (procedure)
+26,4,21/04/2020 04:44,Evaluation of uterine fundal height
+27,4,16/05/2019 14:14,Influenza  seasonal  injectable  preservative free
+28,4,20/03/2020 22:26,Influenza  seasonal  injectable  preservative free
+29,5,19/04/2011 05:04,Throat culture (procedure)
+30,5,03/08/2011 20:19,Hepatitis B Surface Antigen Measurement
+31,5,31/01/1988 06:28,Medication Reconciliation (procedure)
+32,5,07/04/2019 14:11,Teleradiotherapy procedure (procedure)
+33,5,21/04/2020 04:44,Auscultation of the fetal heart
+34,5,31/05/2010 08:49,Influenza  seasonal  injectable  preservative free
+35,5,03/09/2015 22:16,Hep B  adolescent or pediatric
+36,6,26/11/2011 04:04,Medication Reconciliation (procedure)
+37,6,03/08/2011 20:19,Human immunodeficiency virus antigen test
+38,6,29/01/1989 06:28,Medication Reconciliation (procedure)
+39,6,08/04/2019 19:11,Teleradiotherapy procedure (procedure)
+40,6,06/11/2010 15:35,Spirometry (procedure)
+41,6,31/05/2010 08:49,Pneumococcal conjugate PCV 13
+42,6,08/10/2015 22:16,Hep B  adolescent or pediatric
+43,7,01/01/2012 04:04,Sputum examination (procedure)
+44,7,03/08/2011 20:19,Chlamydia antigen test
+45,7,28/01/1990 06:28,Medication Reconciliation (procedure)
+46,7,09/04/2019 21:11,Teleradiotherapy procedure (procedure)
+47,7,12/11/2011 15:35,Spirometry (procedure)
+48,7,29/11/2010 07:49,Pneumococcal conjugate PCV 13
+49,7,10/12/2015 21:16,Hib (PRP-OMP)
+50,8,07/01/2012 04:04,Medication Reconciliation (procedure)
+51,8,03/08/2011 20:19,Gonorrhea infection test
+52,8,28/11/2013 02:18,Medication Reconciliation (procedure)
+53,8,11/04/2019 01:11,Teleradiotherapy procedure (procedure)
+54,8,12/11/2011 15:35,Medication Reconciliation (procedure)
+55,8,29/11/2010 07:49,Hep A  ped/adol  2 dose
+56,8,10/12/2015 21:16,rotavirus  monovalent
+57,9,26/01/2015 18:45,Medication Reconciliation (procedure)
+58,9,03/08/2011 20:19,Syphilis infection test
+59,9,06/12/2018 02:18,Allergy screening test
+60,9,12/04/2019 12:11,Teleradiotherapy procedure (procedure)
+61,9,08/12/2011 15:35,Intramuscular injection
+62,9,30/05/2011 08:49,Influenza  seasonal  injectable  preservative free
+63,9,10/12/2015 21:16,IPV
+64,10,23/04/2013 02:26,Insertion of intrauterine contraceptive device
+65,10,03/08/2011 20:19,Urine culture
+66,10,27/12/2018 02:18,Subcutaneous immunotherapy
+67,10,13/04/2019 17:11,Teleradiotherapy procedure (procedure)
+68,10,29/02/2012 15:35,Throat culture (procedure)
+69,10,30/05/2011 08:49,Pneumococcal conjugate PCV 13
+70,10,10/12/2015 21:16,DTaP
+71,11,19/05/2013 02:26,Removal of subcutaneous contraceptive
+72,11,03/08/2011 20:19,Cytopathology procedure  preparation of smear  genital source
+73,11,17/01/2019 02:18,Subcutaneous immunotherapy
+74,11,15/04/2019 04:11,Teleradiotherapy procedure (procedure)
+75,11,21/04/2012 16:35,Standard pregnancy test
+76,11,28/11/2011 07:49,Pneumococcal conjugate PCV 13
+77,11,10/12/2015 21:16,Pneumococcal conjugate PCV 13
+78,12,19/05/2013 02:26,Insertion of subcutaneous contraceptive
+79,12,03/08/2011 20:19,Urine screening test for diabetes
+80,12,07/02/2019 02:18,Subcutaneous immunotherapy
+81,12,16/04/2019 08:11,Teleradiotherapy procedure (procedure)
+82,12,21/04/2012 16:35,Ultrasound scan for fetal viability
+83,12,28/05/2012 08:49,Influenza  seasonal  injectable  preservative free
+84,12,11/02/2016 21:16,Hib (PRP-OMP)
+85,13,23/04/2014 02:26,Insertion of subcutaneous contraceptive
+86,13,03/08/2011 20:19,Hepatitis C antibody test
+87,13,28/02/2019 02:18,Subcutaneous immunotherapy
+88,13,17/04/2019 15:11,Teleradiotherapy procedure (procedure)
+89,13,21/04/2012 16:35,Evaluation of uterine fundal height
+90,13,03/06/2013 08:49,varicella
+91,13,11/02/2016 21:16,rotavirus  monovalent
+92,14,03/08/2017 17:02,Medication Reconciliation (procedure)
+93,14,03/08/2011 20:19,Rubella screening
+94,14,21/03/2019 02:18,Subcutaneous immunotherapy
+95,14,19/04/2019 01:11,Teleradiotherapy procedure (procedure)
+96,14,21/04/2012 16:35,Auscultation of the fetal heart
+97,14,03/06/2013 08:49,IPV
+98,14,11/02/2016 21:16,IPV
+99,15,21/05/2017 02:26,Removal of subcutaneous contraceptive
+100,15,03/08/2011 20:19,Measurement of Varicella-zoster virus antibody

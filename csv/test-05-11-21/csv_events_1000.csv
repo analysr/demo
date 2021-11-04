@@ -1,0 +1,1001 @@
+﻿hash,stat_unit,date,tag
+1,1,30/04/2011 02:26,Insertion of subcutaneous contraceptive
+2,1,03/08/2011 20:19,Evaluation of uterine fundal height
+3,1,04/12/2017 07:08,Medication Reconciliation (procedure)
+4,1,02/04/2019 14:11,Teleradiotherapy procedure (procedure)
+5,1,21/04/2020 04:44,Hemoglobin / Hematocrit / Platelet count
+6,1,28/04/2016 14:14,Influenza  seasonal  injectable  preservative free
+7,1,15/03/2019 22:26,zoster
+8,2,27/07/2010 14:58,Medication Reconciliation (procedure)
+9,2,03/08/2011 20:19,Auscultation of the fetal heart
+10,2,10/12/2018 07:08,Medication Reconciliation (procedure)
+11,2,03/04/2019 22:11,Teleradiotherapy procedure (procedure)
+12,2,21/04/2020 04:44,Vaccination for diphtheria  pertussis  and tetanus
+13,2,04/05/2017 14:14,Influenza  seasonal  injectable  preservative free
+14,2,15/03/2019 22:26,Influenza  seasonal  injectable  preservative free
+15,3,20/11/2010 04:04,Medication Reconciliation (procedure)
+16,3,03/08/2011 20:19,Blood typing  RH typing
+17,3,01/02/1987 06:28,Medication Reconciliation (procedure)
+18,3,05/04/2019 04:11,Teleradiotherapy procedure (procedure)
+19,3,21/04/2020 04:44,Urine screening for glucose
+20,3,10/05/2018 14:14,Influenza  seasonal  injectable  preservative free
+21,3,15/03/2019 22:26,Td (adult) preservative free
+22,4,07/02/2011 04:04,Throat culture (procedure)
+23,4,03/08/2011 20:19,Hemoglobin / Hematocrit / Platelet count
+24,4,03/05/1987 07:28,Medication Reconciliation (procedure)
+25,4,06/04/2019 11:11,Teleradiotherapy procedure (procedure)
+26,4,21/04/2020 04:44,Evaluation of uterine fundal height
+27,4,16/05/2019 14:14,Influenza  seasonal  injectable  preservative free
+28,4,20/03/2020 22:26,Influenza  seasonal  injectable  preservative free
+29,5,19/04/2011 05:04,Throat culture (procedure)
+30,5,03/08/2011 20:19,Hepatitis B Surface Antigen Measurement
+31,5,31/01/1988 06:28,Medication Reconciliation (procedure)
+32,5,07/04/2019 14:11,Teleradiotherapy procedure (procedure)
+33,5,21/04/2020 04:44,Auscultation of the fetal heart
+34,5,31/05/2010 08:49,Influenza  seasonal  injectable  preservative free
+35,5,03/09/2015 22:16,Hep B  adolescent or pediatric
+36,6,26/11/2011 04:04,Medication Reconciliation (procedure)
+37,6,03/08/2011 20:19,Human immunodeficiency virus antigen test
+38,6,29/01/1989 06:28,Medication Reconciliation (procedure)
+39,6,08/04/2019 19:11,Teleradiotherapy procedure (procedure)
+40,6,06/11/2010 15:35,Spirometry (procedure)
+41,6,31/05/2010 08:49,Pneumococcal conjugate PCV 13
+42,6,08/10/2015 22:16,Hep B  adolescent or pediatric
+43,7,01/01/2012 04:04,Sputum examination (procedure)
+44,7,03/08/2011 20:19,Chlamydia antigen test
+45,7,28/01/1990 06:28,Medication Reconciliation (procedure)
+46,7,09/04/2019 21:11,Teleradiotherapy procedure (procedure)
+47,7,12/11/2011 15:35,Spirometry (procedure)
+48,7,29/11/2010 07:49,Pneumococcal conjugate PCV 13
+49,7,10/12/2015 21:16,Hib (PRP-OMP)
+50,8,07/01/2012 04:04,Medication Reconciliation (procedure)
+51,8,03/08/2011 20:19,Gonorrhea infection test
+52,8,28/11/2013 02:18,Medication Reconciliation (procedure)
+53,8,11/04/2019 01:11,Teleradiotherapy procedure (procedure)
+54,8,12/11/2011 15:35,Medication Reconciliation (procedure)
+55,8,29/11/2010 07:49,Hep A  ped/adol  2 dose
+56,8,10/12/2015 21:16,rotavirus  monovalent
+57,9,26/01/2015 18:45,Medication Reconciliation (procedure)
+58,9,03/08/2011 20:19,Syphilis infection test
+59,9,06/12/2018 02:18,Allergy screening test
+60,9,12/04/2019 12:11,Teleradiotherapy procedure (procedure)
+61,9,08/12/2011 15:35,Intramuscular injection
+62,9,30/05/2011 08:49,Influenza  seasonal  injectable  preservative free
+63,9,10/12/2015 21:16,IPV
+64,10,23/04/2013 02:26,Insertion of intrauterine contraceptive device
+65,10,03/08/2011 20:19,Urine culture
+66,10,27/12/2018 02:18,Subcutaneous immunotherapy
+67,10,13/04/2019 17:11,Teleradiotherapy procedure (procedure)
+68,10,29/02/2012 15:35,Throat culture (procedure)
+69,10,30/05/2011 08:49,Pneumococcal conjugate PCV 13
+70,10,10/12/2015 21:16,DTaP
+71,11,19/05/2013 02:26,Removal of subcutaneous contraceptive
+72,11,03/08/2011 20:19,Cytopathology procedure  preparation of smear  genital source
+73,11,17/01/2019 02:18,Subcutaneous immunotherapy
+74,11,15/04/2019 04:11,Teleradiotherapy procedure (procedure)
+75,11,21/04/2012 16:35,Standard pregnancy test
+76,11,28/11/2011 07:49,Pneumococcal conjugate PCV 13
+77,11,10/12/2015 21:16,Pneumococcal conjugate PCV 13
+78,12,19/05/2013 02:26,Insertion of subcutaneous contraceptive
+79,12,03/08/2011 20:19,Urine screening test for diabetes
+80,12,07/02/2019 02:18,Subcutaneous immunotherapy
+81,12,16/04/2019 08:11,Teleradiotherapy procedure (procedure)
+82,12,21/04/2012 16:35,Ultrasound scan for fetal viability
+83,12,28/05/2012 08:49,Influenza  seasonal  injectable  preservative free
+84,12,11/02/2016 21:16,Hib (PRP-OMP)
+85,13,23/04/2014 02:26,Insertion of subcutaneous contraceptive
+86,13,03/08/2011 20:19,Hepatitis C antibody test
+87,13,28/02/2019 02:18,Subcutaneous immunotherapy
+88,13,17/04/2019 15:11,Teleradiotherapy procedure (procedure)
+89,13,21/04/2012 16:35,Evaluation of uterine fundal height
+90,13,03/06/2013 08:49,varicella
+91,13,11/02/2016 21:16,rotavirus  monovalent
+92,14,03/08/2017 17:02,Medication Reconciliation (procedure)
+93,14,03/08/2011 20:19,Rubella screening
+94,14,21/03/2019 02:18,Subcutaneous immunotherapy
+95,14,19/04/2019 01:11,Teleradiotherapy procedure (procedure)
+96,14,21/04/2012 16:35,Auscultation of the fetal heart
+97,14,03/06/2013 08:49,IPV
+98,14,11/02/2016 21:16,IPV
+99,15,21/05/2017 02:26,Removal of subcutaneous contraceptive
+100,15,03/08/2011 20:19,Measurement of Varicella-zoster virus antibody
+101,15,11/04/2019 03:18,Subcutaneous immunotherapy
+102,15,20/04/2019 11:11,Teleradiotherapy procedure (procedure)
+103,15,21/04/2012 16:35,Blood typing  RH typing
+104,15,03/06/2013 08:49,Influenza  seasonal  injectable  preservative free
+105,15,11/02/2016 21:16,DTaP
+106,16,09/01/2017 18:45,Medication Reconciliation (procedure)
+107,16,03/08/2011 20:19,Skin test for tuberculosis
+108,16,02/05/2019 03:18,Subcutaneous immunotherapy
+109,16,21/04/2019 14:11,Teleradiotherapy procedure (procedure)
+110,16,21/04/2012 16:35,Hemoglobin / Hematocrit / Platelet count
+111,16,03/06/2013 08:49,DTaP
+112,16,11/02/2016 21:16,Pneumococcal conjugate PCV 13
+113,17,21/05/2017 02:26,Insertion of subcutaneous contraceptive
+114,17,03/08/2011 20:19,Urine protein test
+115,17,23/05/2019 03:18,Subcutaneous immunotherapy
+116,17,22/04/2019 18:11,Teleradiotherapy procedure (procedure)
+117,17,21/04/2012 16:35,Hepatitis B Surface Antigen Measurement
+118,17,03/06/2013 08:49,MMR
+119,17,12/05/2016 22:16,IPV
+120,18,22/01/2017 13:58,Suture open wound
+121,18,03/08/2011 20:19,Physical examination of mother
+122,18,13/06/2019 03:18,Subcutaneous immunotherapy
+123,18,24/04/2019 00:11,Teleradiotherapy procedure (procedure)
+124,18,21/04/2012 16:35,Human immunodeficiency virus antigen test
+125,18,09/06/2014 08:49,Influenza  seasonal  injectable  preservative free
+126,18,12/05/2016 22:16,Influenza  seasonal  injectable  preservative free
+127,19,03/06/2018 02:26,Medication Reconciliation (procedure)
+128,19,31/08/2011 20:19,Evaluation of uterine fundal height
+129,19,04/07/2019 03:18,Subcutaneous immunotherapy
+130,19,25/04/2019 05:11,Teleradiotherapy procedure (procedure)
+131,19,21/04/2012 16:35,Chlamydia antigen test
+132,19,15/06/2015 08:49,Influenza  seasonal  injectable  preservative free
+133,19,12/05/2016 22:16,DTaP
+134,20,22/03/2020 01:26,Intramuscular injection
+135,20,31/08/2011 20:19,Auscultation of the fetal heart
+136,20,25/07/2019 03:18,Subcutaneous immunotherapy
+137,20,26/04/2019 10:11,Teleradiotherapy procedure (procedure)
+138,20,21/04/2012 16:35,Gonorrhea infection test
+139,20,20/06/2016 08:49,Influenza  seasonal  injectable  preservative free
+140,20,12/05/2016 22:16,Pneumococcal conjugate PCV 13
+141,21,07/12/2013 04:04,Medication Reconciliation (procedure)
+142,21,31/08/2011 20:19,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+143,21,15/08/2019 03:18,Subcutaneous immunotherapy
+144,21,27/04/2019 17:11,Teleradiotherapy procedure (procedure)
+145,21,21/04/2012 16:35,Syphilis infection test
+146,21,26/06/2017 08:49,Influenza  seasonal  injectable  preservative free
+147,21,12/05/2016 22:16,Hep B  adolescent or pediatric
+148,22,08/08/2017 14:58,Medication Reconciliation (procedure)
+149,22,28/09/2011 20:19,Fetal anatomy study
+150,22,05/09/2019 03:18,Subcutaneous immunotherapy
+151,22,05/08/2011 12:59,Medication Reconciliation (procedure)
+152,22,21/04/2012 16:35,Urine culture
+153,22,02/07/2018 08:49,Influenza  seasonal  injectable  preservative free
+154,22,10/11/2016 21:16,Hib (PRP-OMP)
+155,23,23/04/2019 14:58,Sputum examination (procedure)
+156,23,28/09/2011 20:19,Alpha-fetoprotein test
+157,23,26/09/2019 03:18,Subcutaneous immunotherapy
+158,23,24/06/2019 21:11,Digital examination of rectum
+159,23,21/04/2012 16:35,Cytopathology procedure  preparation of smear  genital source
+160,23,08/07/2019 08:49,Tdap
+161,23,10/11/2016 21:16,varicella
+162,24,07/05/2019 14:58,Medication Reconciliation (procedure)
+163,24,28/09/2011 20:19,Evaluation of uterine fundal height
+164,24,17/10/2019 03:18,Subcutaneous immunotherapy
+165,24,30/06/2019 21:11,Medication Reconciliation (procedure)
+166,24,21/04/2012 16:35,Urine screening test for diabetes
+167,24,08/07/2019 08:49,Influenza  seasonal  injectable  preservative free
+168,24,10/11/2016 21:16,MMR
+169,25,28/07/2017 05:08,Medication Reconciliation (procedure)
+170,25,28/09/2011 20:19,Auscultation of the fetal heart
+171,25,07/11/2019 02:18,Subcutaneous immunotherapy
+172,25,05/04/2020 21:11,Mammography (procedure)
+173,25,21/04/2012 16:35,Hepatitis C antibody test
+174,25,08/07/2019 08:49,HPV  quadrivalent
+175,25,10/11/2016 21:16,Pneumococcal conjugate PCV 13
+176,26,03/11/2017 04:08,Medication Reconciliation (procedure)
+177,26,26/10/2011 20:19,Evaluation of uterine fundal height
+178,26,28/11/2019 02:18,Subcutaneous immunotherapy
+179,26,28/08/2015 12:59,Medication Reconciliation (procedure)
+180,26,21/04/2012 16:35,Rubella screening
+181,26,08/07/2019 08:49,meningococcal MCV4P
+182,26,10/11/2016 21:16,Hep A  ped/adol  2 dose
+183,27,04/12/2010 07:21,Medication Reconciliation (procedure)
+184,27,26/10/2011 20:19,Auscultation of the fetal heart
+185,27,19/12/2019 02:18,Subcutaneous immunotherapy
+186,27,02/09/2016 12:59,Medication Reconciliation (procedure)
+187,27,21/04/2012 16:35,Measurement of Varicella-zoster virus antibody
+188,27,09/10/2010 02:28,Influenza  seasonal  injectable  preservative free
+189,27,09/02/2017 21:16,DTaP
+190,28,27/12/2014 07:21,Medication Reconciliation (procedure)
+191,28,23/11/2011 19:19,Evaluation of uterine fundal height
+192,28,02/01/2020 02:18,Medication Reconciliation (procedure)
+193,28,11/12/2011 09:25,Medication Reconciliation (procedure)
+194,28,21/04/2012 16:35,Skin test for tuberculosis
+195,28,15/10/2011 02:28,Influenza  seasonal  injectable  preservative free
+196,28,10/08/2017 22:16,Influenza  seasonal  injectable  preservative free
+197,29,06/04/2018 05:08,Medication Reconciliation (procedure)
+198,29,23/11/2011 19:19,Auscultation of the fetal heart
+199,29,09/01/2020 02:18,Subcutaneous immunotherapy
+200,29,15/12/2013 09:25,Peripheral blood smear interpretation
+201,29,21/04/2012 16:35,Urine protein test
+202,29,20/10/2012 02:28,Influenza  seasonal  injectable  preservative free
+203,29,08/02/2018 21:16,Hep A  ped/adol  2 dose
+204,30,31/10/2017 07:21,Measurement of respiratory function (procedure)
+205,30,21/12/2011 19:19,Hemoglobin / Hematocrit / Platelet count
+206,30,30/01/2020 02:18,Subcutaneous immunotherapy
+207,30,15/12/2013 09:25,Review of systems (procedure)
+208,30,21/04/2012 16:35,Physical examination of mother
+209,30,26/10/2013 02:28,Influenza  seasonal  injectable  preservative free
+210,30,31/05/2018 22:16,Influenza  seasonal  injectable  preservative free
+211,31,05/12/2019 07:21,Measurement of respiratory function (procedure)
+212,31,21/12/2011 19:19,Vaccination for diphtheria  pertussis  and tetanus
+213,31,20/02/2020 02:18,Subcutaneous immunotherapy
+214,31,15/12/2013 09:25,Medication Reconciliation (procedure)
+215,31,19/05/2012 16:35,Evaluation of uterine fundal height
+216,31,01/11/2014 01:28,Influenza  seasonal  injectable  preservative free
+217,31,08/08/2019 22:16,Influenza  seasonal  injectable  preservative free
+218,32,14/12/2019 07:21,Medication Reconciliation (procedure)
+219,32,21/12/2011 19:19,Urine screening for glucose
+220,32,12/03/2020 02:18,Subcutaneous immunotherapy
+221,32,15/12/2013 09:25,Brief general examination (procedure)
+222,32,19/05/2012 16:35,Auscultation of the fetal heart
+223,32,07/11/2015 01:28,Influenza  seasonal  injectable  preservative free
+224,32,19/05/2010 07:31,Influenza  seasonal  injectable  preservative free
+225,33,05/07/2019 05:08,Medication Reconciliation (procedure)
+226,33,21/12/2011 19:19,Evaluation of uterine fundal height
+227,33,02/04/2020 03:18,Subcutaneous immunotherapy
+228,33,20/12/2015 09:25,Medication Reconciliation (procedure)
+229,33,19/05/2012 16:35,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+230,33,12/11/2016 01:28,Influenza  seasonal  injectable  preservative free
+231,33,27/04/2011 07:31,Influenza  seasonal  injectable  preservative free
+232,34,15/05/2019 08:27,Medication Reconciliation (procedure)
+233,34,21/12/2011 19:19,Auscultation of the fetal heart
+234,34,23/04/2020 03:18,Subcutaneous immunotherapy
+235,34,16/01/2017 09:25,Nasal sinus endoscopy (procedure)
+236,34,16/06/2012 16:35,Fetal anatomy study
+237,34,18/11/2017 01:28,Influenza  seasonal  injectable  preservative free
+238,34,27/04/2011 07:31,meningococcal MCV4P
+239,35,23/10/2019 08:27,Medication Reconciliation (procedure)
+240,35,18/01/2012 19:19,Evaluation of uterine fundal height
+241,35,09/08/2010 10:42,Suture open wound
+242,35,06/01/2019 09:25,Medication Reconciliation (procedure)
+243,35,16/06/2012 16:35,Alpha-fetoprotein test
+244,35,21/07/2018 02:28,zoster
+245,35,30/05/2012 07:31,Influenza  seasonal  injectable  preservative free
+246,36,22/01/2020 07:27,Medication Reconciliation (procedure)
+247,36,18/01/2012 19:19,Auscultation of the fetal heart
+248,36,29/12/2010 09:42,Medication Reconciliation (procedure)
+249,36,07/02/1981 20:13,Throat culture (procedure)
+250,36,16/06/2012 16:35,Evaluation of uterine fundal height
+251,36,24/11/2018 01:28,zoster
+252,36,05/06/2013 07:31,Influenza  seasonal  injectable  preservative free
+253,37,22/04/2020 08:27,Medication Reconciliation (procedure)
+254,37,15/02/2012 19:19,Streptococcus pneumoniae group B antigen test
+255,37,04/01/2012 09:42,Medication Reconciliation (procedure)
+256,37,10/11/1984 20:13,Insertion of intrauterine contraceptive device
+257,37,16/06/2012 16:35,Auscultation of the fetal heart
+258,37,24/11/2018 01:28,Influenza  seasonal  injectable  preservative free
+259,37,11/06/2014 07:31,Influenza  seasonal  injectable  preservative free
+260,38,22/05/2010 17:35,Medication Reconciliation (procedure)
+261,38,15/02/2012 19:19,Evaluation of uterine fundal height
+262,38,13/07/2012 10:42,Suture open wound
+263,38,13/10/2012 14:32,Suture open wound
+264,38,14/07/2012 16:35,Evaluation of uterine fundal height
+265,38,30/11/2019 01:28,Influenza  seasonal  injectable  preservative free
+266,38,14/06/2017 07:31,Influenza  seasonal  injectable  preservative free
+267,39,02/03/2013 16:35,Removal of subcutaneous contraceptive
+268,39,15/02/2012 19:19,Auscultation of the fetal heart
+269,39,15/01/2014 09:42,Medication Reconciliation (procedure)
+270,39,09/08/2016 14:32,Medication Reconciliation (procedure)
+271,39,14/07/2012 16:35,Auscultation of the fetal heart
+272,39,30/11/2019 01:28,Td (adult) preservative free
+273,39,14/06/2017 07:31,Td (adult) preservative free
+274,40,02/03/2013 16:35,Insertion of subcutaneous contraceptive
+275,40,29/02/2012 19:19,Episiotomy
+276,40,21/01/2015 09:42,Medication Reconciliation (procedure)
+277,40,14/08/2018 14:32,Medication Reconciliation (procedure)
+278,40,11/08/2012 16:35,Evaluation of uterine fundal height
+279,40,03/11/2010 18:04,zoster
+280,40,14/06/2017 07:31,Hep B  adult
+281,41,08/07/2014 17:35,Upper arm X-ray
+282,41,29/02/2012 19:19,Childbirth
+283,41,27/01/2016 09:42,Medication Reconciliation (procedure)
+284,41,25/04/2012 04:07,Sputum examination (procedure)
+285,41,11/08/2012 16:35,Auscultation of the fetal heart
+286,41,03/11/2010 18:04,Influenza  seasonal  injectable  preservative free
+287,41,14/06/2017 07:31,meningococcal MCV4P
+288,42,08/07/2014 17:35,Bone immobilization
+289,42,11/04/2012 20:19,Physical examination following birth
+290,42,01/02/2017 09:42,Medication Reconciliation (procedure)
+291,42,25/07/2014 04:07,Replacement of contraceptive intrauterine device
+292,42,08/09/2012 16:35,Antenatal RhD antibody screening
+293,42,03/11/2010 18:04,Td (adult) preservative free
+294,42,27/07/1997 15:25,Influenza  seasonal  injectable  preservative free
+295,43,17/01/2015 16:35,Intramuscular injection
+296,43,11/04/2012 20:19,Depression screening
+297,43,08/02/2017 09:42,Ankle X-ray
+298,43,08/01/2016 03:07,Mammogram - symptomatic (procedure)
+299,43,08/09/2012 16:35,RhD passive immunization
+300,43,09/11/2011 18:04,Influenza  seasonal  injectable  preservative free
+301,43,02/08/1998 15:25,Influenza  seasonal  injectable  preservative free
+302,44,20/03/2016 16:35,Extraction of wisdom tooth
+303,44,18/07/2012 20:19,Standard pregnancy test
+304,44,08/02/2017 09:42,Bone immobilization
+305,44,08/01/2016 03:07,Ultrasonography of bilateral breasts (procedure)
+306,44,08/09/2012 16:35,Hemoglobin / Hematocrit / Platelet count
+307,44,14/11/2012 18:04,Influenza  seasonal  injectable  preservative free
+308,44,08/08/1999 15:25,Influenza  seasonal  injectable  preservative free
+309,45,04/03/2017 16:35,Removal of subcutaneous contraceptive
+310,45,18/07/2012 20:19,Ultrasound scan for fetal viability
+311,45,13/02/2019 09:42,Medication Reconciliation (procedure)
+312,45,08/01/2016 03:07,Biopsy of breast (procedure)
+313,45,08/09/2012 16:35,Vaccination for diphtheria  pertussis  and tetanus
+314,45,04/09/2013 19:04,Influenza  seasonal  injectable  preservative free
+315,45,13/08/2000 15:25,Influenza  seasonal  injectable  preservative free
+316,46,04/03/2017 16:35,Insertion of subcutaneous contraceptive
+317,46,01/08/2012 20:19,Counseling for termination of pregnancy
+318,46,27/12/2018 12:00,Medication Reconciliation (procedure)
+319,46,08/01/2016 03:07,Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure)
+320,46,08/09/2012 16:35,Urine screening for glucose
+321,46,26/11/2014 18:04,Influenza  seasonal  injectable  preservative free
+322,46,13/08/2000 15:25,Td (adult) preservative free
+323,47,31/03/2018 17:35,Removal of subcutaneous contraceptive
+324,47,01/08/2012 20:19,Induced termination of pregnancy
+325,47,01/06/2011 19:57,Medication Reconciliation (procedure)
+326,47,08/01/2016 03:07,Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure)
+327,47,08/09/2012 16:35,Evaluation of uterine fundal height
+328,47,02/12/2015 18:04,Influenza  seasonal  injectable  preservative free
+329,47,19/08/2001 15:25,Influenza  seasonal  injectable  preservative free
+330,48,26/05/2018 17:35,Standard pregnancy test
+331,48,08/08/2012 20:19,Pregnancy termination care
+332,48,06/06/2012 19:57,Medication Reconciliation (procedure)
+333,48,15/01/2016 03:07,Sentinel lymph node biopsy (procedure)
+334,48,08/09/2012 16:35,Auscultation of the fetal heart
+335,48,07/12/2016 18:04,Influenza  seasonal  injectable  preservative free
+336,48,25/08/2002 15:25,Influenza  seasonal  injectable  preservative free
+337,49,26/05/2018 17:35,Ultrasound scan for fetal viability
+338,49,08/08/2012 20:19,Physical exam following abortion
+339,49,12/06/2013 19:57,Medication Reconciliation (procedure)
+340,49,15/01/2016 03:07,Excision of sentinel lymph node (procedure)
+341,49,06/10/2012 16:35,Evaluation of uterine fundal height
+342,49,13/12/2017 18:04,Influenza  seasonal  injectable  preservative free
+343,49,31/08/2003 15:25,Influenza  seasonal  injectable  preservative free
+344,50,26/05/2018 17:35,Evaluation of uterine fundal height
+345,50,08/08/2012 20:19,Depression screening
+346,50,19/05/2014 19:57,Colonoscopy
+347,50,15/01/2016 03:07,Excision of breast tissue (procedure)
+348,50,06/10/2012 16:35,Auscultation of the fetal heart
+349,50,19/12/2018 18:04,Influenza  seasonal  injectable  preservative free
+350,50,05/09/2004 15:25,Influenza  seasonal  injectable  preservative free
+351,51,26/05/2018 17:35,Auscultation of the fetal heart
+352,51,09/01/2013 19:19,Standard pregnancy test
+353,51,18/06/2014 19:57,Medication Reconciliation (procedure)
+354,51,21/01/2016 03:07,Chemotherapy (procedure)
+355,51,03/11/2012 15:35,Streptococcus pneumoniae group B antigen test
+356,51,25/12/2019 18:04,Influenza  seasonal  injectable  preservative free
+357,51,11/09/2005 15:25,Influenza  seasonal  injectable  preservative free
+358,52,26/05/2018 17:35,Blood typing  RH typing
+359,52,09/01/2013 19:19,Ultrasound scan for fetal viability
+360,52,24/06/2015 19:57,Medication Reconciliation (procedure)
+361,52,29/01/2016 03:07,Medication Reconciliation (procedure)
+362,52,03/11/2012 15:35,Evaluation of uterine fundal height
+363,52,09/01/2011 12:11,Influenza  seasonal  injectable  preservative free
+364,52,11/09/2005 15:25,pneumococcal polysaccharide vaccine  23 valent
+365,53,26/05/2018 17:35,Hemoglobin / Hematocrit / Platelet count
+366,53,09/01/2013 19:19,Evaluation of uterine fundal height
+367,53,18/05/2019 19:57,Colonoscopy
+368,53,11/02/2016 03:07,Chemotherapy (procedure)
+369,53,03/11/2012 15:35,Auscultation of the fetal heart
+370,53,09/01/2011 12:11,HPV  quadrivalent
+371,53,02/09/2010 15:13,Influenza  seasonal  injectable  preservative free
+372,54,26/05/2018 17:35,Hepatitis B Surface Antigen Measurement
+373,54,09/01/2013 19:19,Auscultation of the fetal heart
+374,54,17/07/2019 19:57,Medication Reconciliation (procedure)
+375,54,02/03/2016 03:07,Chemotherapy (procedure)
+376,54,17/11/2012 15:35,Augmentation of labor
+377,54,15/01/2012 12:11,Influenza  seasonal  injectable  preservative free
+378,54,02/09/2010 15:13,Td (adult) preservative free
+379,55,26/05/2018 17:35,Human immunodeficiency virus antigen test
+380,55,09/01/2013 19:19,Blood typing  RH typing
+381,55,13/07/2010 23:54,Medication Reconciliation (procedure)
+382,55,24/03/2016 03:07,Chemotherapy (procedure)
+383,55,17/11/2012 15:35,Childbirth
+384,55,20/01/2013 12:11,Influenza  seasonal  injectable  preservative free
+385,55,05/09/2013 15:13,Influenza  seasonal  injectable  preservative free
+386,56,26/05/2018 17:35,Chlamydia antigen test
+387,56,09/01/2013 19:19,Hemoglobin / Hematocrit / Platelet count
+388,56,24/07/2012 23:54,Medication Reconciliation (procedure)
+389,56,12/04/2016 04:07,Chemotherapy (procedure)
+390,56,17/11/2012 15:35,Spirometry (procedure)
+391,56,28/07/2013 13:11,Influenza  seasonal  injectable  preservative free
+392,56,08/09/2016 15:13,Influenza  seasonal  injectable  preservative free
+393,57,26/05/2018 17:35,Gonorrhea infection test
+394,57,09/01/2013 19:19,Hepatitis B Surface Antigen Measurement
+395,57,06/08/2013 23:54,Standard pregnancy test
+396,57,03/05/2016 04:07,Chemotherapy (procedure)
+397,57,29/12/2012 15:35,RhD passive immunization
+398,57,26/01/2014 12:11,meningococcal MCV4P
+399,57,27/06/2019 15:13,Influenza  seasonal  injectable  preservative free
+400,58,26/05/2018 17:35,Syphilis infection test
+401,58,09/01/2013 19:19,Human immunodeficiency virus antigen test
+402,58,06/08/2013 23:54,Ultrasound scan for fetal viability
+403,58,25/05/2016 04:07,Chemotherapy (procedure)
+404,58,29/12/2012 15:35,Physical examination following birth
+405,58,31/08/2014 13:11,Influenza  seasonal  injectable  preservative free
+406,58,27/06/2019 15:13,Hep A  adult
+407,59,26/05/2018 17:35,Urine culture
+408,59,09/01/2013 19:19,Chlamydia antigen test
+409,59,06/08/2013 23:54,Evaluation of uterine fundal height
+410,59,14/06/2016 04:07,Chemotherapy (procedure)
+411,59,29/12/2012 15:35,Depression screening
+412,59,07/02/2016 12:11,Influenza  seasonal  injectable  preservative free
+413,59,17/07/2010 20:16,Influenza  seasonal  injectable  preservative free
+414,60,26/05/2018 17:35,Cytopathology procedure  preparation of smear  genital source
+415,60,09/01/2013 19:19,Gonorrhea infection test
+416,60,06/08/2013 23:54,Auscultation of the fetal heart
+417,60,09/06/2017 04:07,Mammography (procedure)
+418,60,23/11/2013 15:35,Spirometry (procedure)
+419,60,12/02/2017 12:11,Influenza  seasonal  injectable  preservative free
+420,60,04/06/2011 20:16,Influenza  seasonal  injectable  preservative free
+421,61,26/05/2018 17:35,Urine screening test for diabetes
+422,61,09/01/2013 19:19,Syphilis infection test
+423,61,06/08/2013 23:54,Blood typing  RH typing
+424,61,09/06/2017 04:07,Manual pelvic examination (procedure)
+425,61,23/11/2013 15:35,Medication Reconciliation (procedure)
+426,61,18/02/2018 12:11,Influenza  seasonal  injectable  preservative free
+427,61,20/07/2013 20:16,Influenza  seasonal  injectable  preservative free
+428,62,26/05/2018 17:35,Hepatitis C antibody test
+429,62,09/01/2013 19:19,Urine culture
+430,62,06/08/2013 23:54,Hemoglobin / Hematocrit / Platelet count
+431,62,09/06/2017 04:07,Cytopathology procedure  preparation of smear  genital source (procedure)
+432,62,25/01/2014 15:35,Spirometry (procedure)
+433,62,18/02/2018 12:11,Hep B  adult
+434,62,22/02/2014 19:16,Influenza  seasonal  injectable  preservative free
+435,63,26/05/2018 17:35,Rubella screening
+436,63,09/01/2013 19:19,Cytopathology procedure  preparation of smear  genital source
+437,63,06/08/2013 23:54,Hepatitis B Surface Antigen Measurement
+438,63,12/06/2017 04:07,Insertion of subcutaneous contraceptive
+439,63,22/11/2014 15:35,Standard pregnancy test
+440,63,16/12/2018 12:11,Influenza  seasonal  injectable  preservative free
+441,63,07/05/2016 20:16,Influenza  seasonal  injectable  preservative free
+442,64,26/05/2018 17:35,Measurement of Varicella-zoster virus antibody
+443,64,09/01/2013 19:19,Urine screening test for diabetes
+444,64,06/08/2013 23:54,Human immunodeficiency virus antigen test
+445,64,02/02/2018 03:07,Medication Reconciliation (procedure)
+446,64,22/11/2014 15:35,Ultrasound scan for fetal viability
+447,64,16/12/2018 12:11,Td (adult) preservative free
+448,64,07/05/2016 20:16,Hep A  adult
+449,65,26/05/2018 17:35,Skin test for tuberculosis
+450,65,09/01/2013 19:19,Hepatitis C antibody test
+451,65,06/08/2013 23:54,Chlamydia antigen test
+452,65,11/05/2018 04:07,Mammography (procedure)
+453,65,29/11/2014 15:35,Spirometry (procedure)
+454,65,16/12/2018 12:11,Hep B  adult
+455,65,12/05/2018 20:16,Influenza  seasonal  injectable  preservative free
+456,66,26/05/2018 17:35,Urine protein test
+457,66,09/01/2013 19:19,Rubella screening
+458,66,06/08/2013 23:54,Gonorrhea infection test
+459,66,11/05/2018 04:07,Manual pelvic examination (procedure)
+460,66,06/12/2014 15:35,RhD passive immunization
+461,66,16/12/2018 12:11,meningococcal MCV4P
+462,66,12/05/2018 20:16,Td (adult) preservative free
+463,67,26/05/2018 17:35,Physical examination of mother
+464,67,09/01/2013 19:19,Measurement of Varicella-zoster virus antibody
+465,67,06/08/2013 23:54,Syphilis infection test
+466,67,11/05/2018 04:07,Cytopathology procedure  preparation of smear  genital source (procedure)
+467,67,06/12/2014 15:35,Physical examination
+468,67,24/02/2019 12:11,Hep B  adult
+469,67,12/05/2018 20:16,Hep A  adult
+470,68,23/06/2018 17:35,Evaluation of uterine fundal height
+471,68,09/01/2013 19:19,Skin test for tuberculosis
+472,68,06/08/2013 23:54,Urine culture
+473,68,12/04/2019 04:07,Mammography (procedure)
+474,68,06/12/2014 15:35,Depression screening
+475,68,01/03/2020 12:11,Influenza  seasonal  injectable  preservative free
+476,68,04/06/2010 08:15,Influenza  seasonal  injectable  preservative free
+477,69,23/06/2018 17:35,Auscultation of the fetal heart
+478,69,09/01/2013 19:19,Urine protein test
+479,69,06/08/2013 23:54,Cytopathology procedure  preparation of smear  genital source
+480,69,12/04/2019 04:07,Manual pelvic examination (procedure)
+481,69,05/12/2015 15:35,Spirometry (procedure)
+482,69,16/07/2010 14:19,Influenza  seasonal  injectable  preservative free
+483,69,10/06/2011 08:15,Influenza  seasonal  injectable  preservative free
+484,70,23/06/2018 17:35,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+485,70,09/01/2013 19:19,Physical examination of mother
+486,70,06/08/2013 23:54,Urine screening test for diabetes
+487,70,12/04/2019 04:07,Cytopathology procedure  preparation of smear  genital source (procedure)
+488,70,05/12/2015 15:35,Medication Reconciliation (procedure)
+489,70,22/07/2011 14:19,Influenza  seasonal  injectable  preservative free
+490,70,15/06/2012 08:15,Influenza  seasonal  injectable  preservative free
+491,71,21/07/2018 17:35,Fetal anatomy study
+492,71,06/02/2013 19:19,Evaluation of uterine fundal height
+493,71,06/08/2013 23:54,Hepatitis C antibody test
+494,71,26/07/2019 04:07,Replacement of contraceptive intrauterine device
+495,71,10/12/2016 15:35,Spirometry (procedure)
+496,71,25/07/2014 14:19,Influenza  seasonal  injectable  preservative free
+497,71,15/03/2013 07:15,Influenza  seasonal  injectable  preservative free
+498,72,21/07/2018 17:35,Alpha-fetoprotein test
+499,72,06/02/2013 19:19,Auscultation of the fetal heart
+500,72,06/08/2013 23:54,Rubella screening
+501,72,24/01/2020 03:07,Measurement of respiratory function (procedure)
+502,72,10/12/2016 15:35,Medication Reconciliation (procedure)
+503,72,25/07/2014 14:19,Td (adult) preservative free
+504,72,27/06/2014 08:15,Influenza  seasonal  injectable  preservative free
+505,73,21/07/2018 17:35,Evaluation of uterine fundal height
+506,73,06/02/2013 19:19,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+507,73,06/08/2013 23:54,Measurement of Varicella-zoster virus antibody
+508,73,20/03/2020 03:07,Mammography (procedure)
+509,73,16/12/2017 15:35,Spirometry (procedure)
+510,73,25/07/2014 14:19,Hep B  adult
+511,73,06/02/2015 07:15,Influenza  seasonal  injectable  preservative free
+512,74,21/07/2018 17:35,Auscultation of the fetal heart
+513,74,06/03/2013 19:19,Fetal anatomy study
+514,74,06/08/2013 23:54,Skin test for tuberculosis
+515,74,20/03/2020 03:07,Manual pelvic examination (procedure)
+516,74,16/12/2017 15:35,Medication Reconciliation (procedure)
+517,74,25/07/2014 14:19,meningococcal MCV4P
+518,74,08/07/2016 08:15,Influenza  seasonal  injectable  preservative free
+519,75,18/08/2018 17:35,Evaluation of uterine fundal height
+520,75,06/03/2013 19:19,Alpha-fetoprotein test
+521,75,06/08/2013 23:54,Urine protein test
+522,75,20/03/2020 03:07,Cytopathology procedure  preparation of smear  genital source (procedure)
+523,75,22/12/2018 15:35,Spirometry (procedure)
+524,75,28/07/2017 14:19,Influenza  seasonal  injectable  preservative free
+525,75,08/07/2016 08:15,Td (adult) preservative free
+526,76,18/08/2018 17:35,Auscultation of the fetal heart
+527,76,06/03/2013 19:19,Evaluation of uterine fundal height
+528,76,06/08/2013 23:54,Physical examination of mother
+529,76,26/07/2010 19:24,Intramuscular injection
+530,76,26/11/2019 15:35,Insertion of intrauterine contraceptive device
+531,76,16/06/2011 18:53,Influenza  seasonal  injectable  preservative free
+532,76,14/07/2017 08:15,Influenza  seasonal  injectable  preservative free
+533,77,15/09/2018 17:35,Evaluation of uterine fundal height
+534,77,06/03/2013 19:19,Auscultation of the fetal heart
+535,77,03/09/2013 23:54,Evaluation of uterine fundal height
+536,77,25/10/2010 19:24,Intramuscular injection
+537,77,28/12/2019 15:35,Spirometry (procedure)
+538,77,16/06/2011 18:53,Td (adult) preservative free
+539,77,20/07/2018 08:15,Influenza  seasonal  injectable  preservative free
+540,78,15/09/2018 17:35,Auscultation of the fetal heart
+541,78,03/04/2013 20:19,Evaluation of uterine fundal height
+542,78,03/09/2013 23:54,Auscultation of the fetal heart
+543,78,24/01/2011 18:24,Intramuscular injection
+544,78,28/12/2019 15:35,Medication Reconciliation (procedure)
+545,78,16/06/2011 18:53,Hep A  adult
+546,78,26/07/2019 08:15,Influenza  seasonal  injectable  preservative free
+547,79,13/10/2018 17:35,Hemoglobin / Hematocrit / Platelet count
+548,79,03/04/2013 20:19,Auscultation of the fetal heart
+549,79,03/09/2013 23:54,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+550,79,25/04/2011 19:24,Intramuscular injection
+551,79,08/08/2012 14:32,Medication Reconciliation (procedure)
+552,79,20/06/2013 18:53,Influenza  seasonal  injectable  preservative free
+553,79,12/07/2010 16:20,Influenza  seasonal  injectable  preservative free
+554,80,13/10/2018 17:35,Vaccination for diphtheria  pertussis  and tetanus
+555,80,01/05/2013 20:19,Evaluation of uterine fundal height
+556,80,01/10/2013 23:54,Fetal anatomy study
+557,80,25/07/2011 19:24,Intramuscular injection
+558,80,22/07/2017 14:32,Intramuscular injection
+559,80,25/06/2015 18:53,Influenza  seasonal  injectable  preservative free
+560,80,12/07/2010 16:20,Pneumococcal conjugate PCV 13
+561,81,13/10/2018 17:35,Urine screening for glucose
+562,81,01/05/2013 20:19,Auscultation of the fetal heart
+563,81,01/10/2013 23:54,Alpha-fetoprotein test
+564,81,24/10/2011 19:24,Intramuscular injection
+565,81,06/09/2017 14:32,Medication Reconciliation (procedure)
+566,81,29/06/2017 18:53,Influenza  seasonal  injectable  preservative free
+567,81,10/01/2011 15:20,Pneumococcal conjugate PCV 13
+568,82,13/10/2018 17:35,Evaluation of uterine fundal height
+569,82,29/05/2013 20:19,Hemoglobin / Hematocrit / Platelet count
+570,82,01/10/2013 23:54,Evaluation of uterine fundal height
+571,82,23/01/2012 18:24,Intramuscular injection
+572,82,01/11/2017 13:32,Intramuscular injection
+573,82,06/06/2019 18:53,zoster
+574,82,11/07/2011 16:20,Influenza  seasonal  injectable  preservative free
+575,83,13/10/2018 17:35,Auscultation of the fetal heart
+576,83,29/05/2013 20:19,Vaccination for diphtheria  pertussis  and tetanus
+577,83,01/10/2013 23:54,Auscultation of the fetal heart
+578,83,23/04/2012 19:24,Intramuscular injection
+579,83,31/01/2018 13:32,Intramuscular injection
+580,83,06/06/2019 18:53,Influenza  seasonal  injectable  preservative free
+581,83,11/07/2011 16:20,Pneumococcal conjugate PCV 13
+582,84,10/11/2018 16:35,Evaluation of uterine fundal height
+583,84,29/05/2013 20:19,Urine screening for glucose
+584,84,29/10/2013 22:54,Evaluation of uterine fundal height
+585,84,23/07/2012 19:24,Intramuscular injection
+586,84,02/05/2018 14:32,Intramuscular injection
+587,84,05/05/2011 04:58,varicella
+588,84,16/07/2012 16:20,varicella
+589,85,10/11/2018 16:35,Auscultation of the fetal heart
+590,85,29/05/2013 20:19,Evaluation of uterine fundal height
+591,85,29/10/2013 22:54,Auscultation of the fetal heart
+592,85,24/09/2012 19:24,Standard pregnancy test
+593,85,01/08/2018 14:32,Intramuscular injection
+594,85,05/05/2011 04:58,IPV
+595,85,16/07/2012 16:20,IPV
+596,86,08/12/2018 16:35,Streptococcus pneumoniae group B antigen test
+597,86,29/05/2013 20:19,Auscultation of the fetal heart
+598,86,26/11/2013 22:54,Evaluation of uterine fundal height
+599,86,24/09/2012 19:24,Ultrasound scan for fetal viability
+600,86,31/10/2018 13:32,Intramuscular injection
+601,86,05/05/2011 04:58,Influenza  seasonal  injectable  preservative free
+602,86,16/07/2012 16:20,Influenza  seasonal  injectable  preservative free
+603,87,08/12/2018 16:35,Evaluation of uterine fundal height
+604,87,26/06/2013 20:19,Evaluation of uterine fundal height
+605,87,26/11/2013 22:54,Auscultation of the fetal heart
+606,87,24/09/2012 19:24,Evaluation of uterine fundal height
+607,87,30/01/2019 13:32,Intramuscular injection
+608,87,05/05/2011 04:58,DTaP
+609,87,16/07/2012 16:20,DTaP
+610,88,08/12/2018 16:35,Auscultation of the fetal heart
+611,88,26/06/2013 20:19,Auscultation of the fetal heart
+612,88,24/12/2013 22:54,Hemoglobin / Hematocrit / Platelet count
+613,88,24/09/2012 19:24,Auscultation of the fetal heart
+614,88,01/05/2019 14:32,Intramuscular injection
+615,88,05/05/2011 04:58,MMR
+616,88,16/07/2012 16:20,MMR
+617,89,22/12/2018 16:35,Evaluation of uterine fundal height
+618,89,24/07/2013 20:19,Streptococcus pneumoniae group B antigen test
+619,89,24/12/2013 22:54,Vaccination for diphtheria  pertussis  and tetanus
+620,89,24/09/2012 19:24,Blood typing  RH typing
+621,89,31/07/2019 14:32,Intramuscular injection
+622,89,10/05/2012 04:58,Influenza  seasonal  injectable  preservative free
+623,89,22/07/2013 16:20,Influenza  seasonal  injectable  preservative free
+624,90,22/12/2018 16:35,Auscultation of the fetal heart
+625,90,24/07/2013 20:19,Evaluation of uterine fundal height
+626,90,24/12/2013 22:54,Urine screening for glucose
+627,90,24/09/2012 19:24,Hemoglobin / Hematocrit / Platelet count
+628,90,30/10/2019 13:32,Intramuscular injection
+629,90,16/05/2013 04:58,Influenza  seasonal  injectable  preservative free
+630,90,10/03/2014 15:20,Influenza  seasonal  injectable  preservative free
+631,91,29/12/2018 16:35,Evaluation of uterine fundal height
+632,91,24/07/2013 20:19,Auscultation of the fetal heart
+633,91,24/12/2013 22:54,Evaluation of uterine fundal height
+634,91,24/09/2012 19:24,Hepatitis B Surface Antigen Measurement
+635,91,29/01/2020 13:32,Intramuscular injection
+636,91,22/05/2014 04:58,Influenza  seasonal  injectable  preservative free
+637,91,03/08/2015 16:20,Influenza  seasonal  injectable  preservative free
+638,92,29/12/2018 16:35,Auscultation of the fetal heart
+639,92,07/08/2013 20:19,Evaluation of uterine fundal height
+640,92,24/12/2013 22:54,Auscultation of the fetal heart
+641,92,24/09/2012 19:24,Human immunodeficiency virus antigen test
+642,92,24/12/2012 07:49,Medication Reconciliation (procedure)
+643,92,19/03/2015 03:58,Influenza  seasonal  injectable  preservative free
+644,92,25/07/2016 16:20,Influenza  seasonal  injectable  preservative free
+645,93,05/01/2019 16:35,Epidural anesthesia
+646,93,07/08/2013 20:19,Auscultation of the fetal heart
+647,93,21/01/2014 22:54,Evaluation of uterine fundal height
+648,93,24/09/2012 19:24,Chlamydia antigen test
+649,93,05/01/2015 07:49,Medication Reconciliation (procedure)
+650,93,02/06/2016 04:58,Influenza  seasonal  injectable  preservative free
+651,93,14/08/2017 16:20,Influenza  seasonal  injectable  preservative free
+652,94,05/01/2019 16:35,Childbirth
+653,94,14/08/2013 20:19,Childbirth
+654,94,21/01/2014 22:54,Auscultation of the fetal heart
+655,94,24/09/2012 19:24,Gonorrhea infection test
+656,94,31/10/2015 07:49,Suture open wound
+657,94,08/06/2017 04:58,Tdap
+658,94,20/08/2018 16:20,Tdap
+659,95,16/02/2019 16:35,Physical examination following birth
+660,95,25/09/2013 20:19,Physical examination following birth
+661,95,18/02/2014 22:54,Streptococcus pneumoniae group B antigen test
+662,95,24/09/2012 19:24,Syphilis infection test
+663,95,11/01/2016 07:49,Medication Reconciliation (procedure)
+664,95,08/06/2017 04:58,Influenza  seasonal  injectable  preservative free
+665,95,20/08/2018 16:20,Influenza  seasonal  injectable  preservative free
+666,96,16/02/2019 16:35,Depression screening
+667,96,25/09/2013 20:19,Depression screening
+668,96,18/02/2014 22:54,Evaluation of uterine fundal height
+669,96,24/09/2012 19:24,Urine culture
+670,96,16/03/2011 11:44,Medication Reconciliation (procedure)
+671,96,08/06/2017 04:58,HPV  quadrivalent
+672,96,20/08/2018 16:20,HPV  quadrivalent
+673,97,04/07/2016 12:08,Medication Reconciliation (procedure)
+674,97,03/11/2016 19:19,Sputum examination (procedure)
+675,97,18/02/2014 22:54,Auscultation of the fetal heart
+676,97,24/09/2012 19:24,Cytopathology procedure  preparation of smear  genital source
+677,97,21/03/2012 11:44,Medication Reconciliation (procedure)
+678,97,08/06/2017 04:58,meningococcal MCV4P
+679,97,20/08/2018 16:20,meningococcal MCV4P
+680,98,08/08/2016 12:08,Medication Reconciliation (procedure)
+681,98,11/09/2017 20:19,Bilateral tubal ligation
+682,98,04/03/2014 22:54,Evaluation of uterine fundal height
+683,98,24/09/2012 19:24,Urine screening test for diabetes
+684,98,25/03/2015 11:44,Medication Reconciliation (procedure)
+685,98,15/03/2018 03:58,Influenza  seasonal  injectable  preservative free
+686,98,10/12/2018 15:20,HPV  quadrivalent
+687,99,02/03/2017 11:08,Throat culture (procedure)
+688,99,20/11/2019 19:19,Medication Reconciliation (procedure)
+689,99,04/03/2014 22:54,Auscultation of the fetal heart
+690,99,24/09/2012 19:24,Hepatitis C antibody test
+691,99,28/03/2018 12:44,Medication Reconciliation (procedure)
+692,99,15/03/2018 03:58,HPV  quadrivalent
+693,99,26/08/2019 16:20,Influenza  seasonal  injectable  preservative free
+694,100,13/03/2017 11:08,Medication Reconciliation (procedure)
+695,100,30/06/2013 20:58,Colonoscopy
+696,100,11/03/2014 22:54,Evaluation of uterine fundal height
+697,100,24/09/2012 19:24,Rubella screening
+698,100,13/08/2013 20:31,Medication Reconciliation (procedure)
+699,100,14/06/2018 04:58,HPV  quadrivalent
+700,100,26/08/2019 16:20,HPV  quadrivalent
+701,101,12/06/2017 12:08,Medication Reconciliation (procedure)
+702,101,22/01/2014 19:58,Upper arm X-ray
+703,101,11/03/2014 22:54,Auscultation of the fetal heart
+704,101,24/09/2012 19:24,Measurement of Varicella-zoster virus antibody
+705,101,30/11/2013 19:31,Throat culture (procedure)
+706,101,20/06/2019 04:58,Influenza  seasonal  injectable  preservative free
+707,101,13/11/2011 07:26,Influenza  seasonal  injectable  preservative free
+708,102,10/12/2018 11:08,Medication Reconciliation (procedure)
+709,102,22/01/2014 19:58,Bone immobilization
+710,102,18/03/2014 22:54,Childbirth
+711,102,24/09/2012 19:24,Skin test for tuberculosis
+712,102,29/07/2014 20:31,Allergy screening test
+713,102,14/08/1979 20:12,Influenza  seasonal  injectable  preservative free
+714,102,11/03/2012 07:26,Influenza  seasonal  injectable  preservative free
+715,103,09/12/2019 11:08,Medication Reconciliation (procedure)
+716,103,22/01/2014 19:58,Bone density scan (procedure)
+717,103,29/04/2014 23:54,Physical examination following birth
+718,103,24/09/2012 19:24,Urine protein test
+719,103,19/08/2014 20:31,Medication Reconciliation (procedure)
+720,103,19/08/1980 20:12,Influenza  seasonal  injectable  preservative free
+721,103,18/03/2012 07:26,Influenza  seasonal  injectable  preservative free
+722,104,05/12/2010 18:52,Medication Reconciliation (procedure)
+723,104,25/03/2014 19:58,Medication Reconciliation (procedure)
+724,104,29/04/2014 23:54,Depression screening
+725,104,24/09/2012 19:24,Physical examination of mother
+726,104,19/08/2014 20:31,Subcutaneous immunotherapy
+727,104,25/08/1981 20:12,Influenza  seasonal  injectable  preservative free
+728,104,17/11/2013 07:26,Influenza  seasonal  injectable  preservative free
+729,105,28/01/2012 18:52,Sputum examination (procedure)
+730,105,31/03/2015 20:58,Medication Reconciliation (procedure)
+731,105,05/08/2014 23:54,Standard pregnancy test
+732,105,22/10/2012 19:24,Evaluation of uterine fundal height
+733,105,09/09/2014 20:31,Subcutaneous immunotherapy
+734,105,31/08/1982 20:12,Influenza  seasonal  injectable  preservative free
+735,105,12/04/2015 08:26,Influenza  seasonal  injectable  preservative free
+736,106,16/12/2012 18:52,Medication Reconciliation (procedure)
+737,106,05/04/2016 20:58,Medication Reconciliation (procedure)
+738,106,05/08/2014 23:54,Ultrasound scan for fetal viability
+739,106,22/10/2012 19:24,Auscultation of the fetal heart
+740,106,30/09/2014 20:31,Subcutaneous immunotherapy
+741,106,06/09/1983 20:12,Influenza  seasonal  injectable  preservative free
+742,106,22/11/2015 07:26,Influenza  seasonal  injectable  preservative free
+743,107,22/12/2013 18:52,Medication Reconciliation (procedure)
+744,107,02/05/2016 20:58,Throat culture (procedure)
+745,107,05/08/2014 23:54,Evaluation of uterine fundal height
+746,107,22/10/2012 19:24,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+747,107,21/10/2014 20:31,Subcutaneous immunotherapy
+748,107,11/09/1984 20:12,Influenza  seasonal  injectable  preservative free
+749,107,29/10/2017 07:26,zoster
+750,108,28/12/2014 18:52,Medication Reconciliation (procedure)
+751,108,29/06/2018 20:58,Colonoscopy
+752,108,05/08/2014 23:54,Auscultation of the fetal heart
+753,108,19/11/2012 18:24,Fetal anatomy study
+754,108,11/11/2014 19:31,Subcutaneous immunotherapy
+755,108,17/09/1985 20:12,Influenza  seasonal  injectable  preservative free
+756,108,29/10/2017 07:26,Influenza  seasonal  injectable  preservative free
+757,109,08/01/2017 18:52,Medication Reconciliation (procedure)
+758,109,23/04/2019 20:58,Medication Reconciliation (procedure)
+759,109,05/08/2014 23:54,Blood typing  RH typing
+760,109,19/11/2012 18:24,Alpha-fetoprotein test
+761,109,25/11/2014 19:31,Suture open wound
+762,109,23/09/1986 20:12,Influenza  seasonal  injectable  preservative free
+763,109,04/11/2018 07:26,zoster
+764,110,30/06/2010 08:54,Intramuscular injection
+765,110,28/04/2020 20:58,Medication Reconciliation (procedure)
+766,110,05/08/2014 23:54,Hemoglobin / Hematocrit / Platelet count
+767,110,19/11/2012 18:24,Evaluation of uterine fundal height
+768,110,02/12/2014 19:31,Subcutaneous immunotherapy
+769,110,29/09/1987 20:12,Influenza  seasonal  injectable  preservative free
+770,110,04/11/2018 07:26,Influenza  seasonal  injectable  preservative free
+771,111,01/09/2010 08:54,Standard pregnancy test
+772,111,09/11/2010 03:23,Electrical cardioversion
+773,111,05/08/2014 23:54,Hepatitis B Surface Antigen Measurement
+774,111,19/11/2012 18:24,Auscultation of the fetal heart
+775,111,23/12/2014 19:31,Subcutaneous immunotherapy
+776,111,04/10/1988 20:12,Influenza  seasonal  injectable  preservative free
+777,111,04/11/2018 07:26,Td (adult) preservative free
+778,112,01/09/2010 08:54,Ultrasound scan for fetal viability
+779,112,09/11/2010 03:23,Medication Reconciliation (procedure)
+780,112,05/08/2014 23:54,Human immunodeficiency virus antigen test
+781,112,17/12/2012 18:24,Evaluation of uterine fundal height
+782,112,13/01/2015 19:31,Subcutaneous immunotherapy
+783,112,17/08/2012 17:23,Influenza  seasonal  injectable  preservative free
+784,112,10/11/2019 07:26,Influenza  seasonal  injectable  preservative free
+785,113,01/09/2010 08:54,Evaluation of uterine fundal height
+786,113,15/11/2011 03:23,Electrical cardioversion
+787,113,05/08/2014 23:54,Chlamydia antigen test
+788,113,17/12/2012 18:24,Auscultation of the fetal heart
+789,113,03/02/2015 19:31,Subcutaneous immunotherapy
+790,113,17/08/2012 17:23,Td (adult) preservative free
+791,113,28/10/2016 18:53,Hep B  adolescent or pediatric
+792,114,01/09/2010 08:54,Auscultation of the fetal heart
+793,114,20/11/2012 03:23,Electrical cardioversion
+794,114,05/08/2014 23:54,Gonorrhea infection test
+795,114,14/01/2013 18:24,Evaluation of uterine fundal height
+796,114,24/02/2015 19:31,Subcutaneous immunotherapy
+797,114,17/08/2012 17:23,Hep B  adult
+798,114,02/12/2016 17:53,Hep B  adolescent or pediatric
+799,115,01/09/2010 08:54,Blood typing  RH typing
+800,115,22/03/2013 03:23,Colonoscopy
+801,115,05/08/2014 23:54,Syphilis infection test
+802,115,14/01/2013 18:24,Auscultation of the fetal heart
+803,115,17/03/2015 19:31,Subcutaneous immunotherapy
+804,115,17/08/2012 17:23,meningococcal MCV4P
+805,115,03/02/2017 17:53,Hib (PRP-OMP)
+806,116,01/09/2010 08:54,Hemoglobin / Hematocrit / Platelet count
+807,116,26/11/2013 03:23,Electrical cardioversion
+808,116,05/08/2014 23:54,Urine culture
+809,116,11/02/2013 18:24,Hemoglobin / Hematocrit / Platelet count
+810,116,07/04/2015 20:31,Subcutaneous immunotherapy
+811,116,07/06/2013 17:23,Influenza  seasonal  injectable  preservative free
+812,116,03/02/2017 17:53,rotavirus  monovalent
+813,117,01/09/2010 08:54,Hepatitis B Surface Antigen Measurement
+814,117,26/11/2013 03:23,Medication Reconciliation (procedure)
+815,117,05/08/2014 23:54,Cytopathology procedure  preparation of smear  genital source
+816,117,11/02/2013 18:24,Vaccination for diphtheria  pertussis  and tetanus
+817,117,28/04/2015 20:31,Subcutaneous immunotherapy
+818,117,07/06/2013 17:23,Hep B  adult
+819,117,03/02/2017 17:53,IPV
+820,118,01/09/2010 08:54,Human immunodeficiency virus antigen test
+821,118,02/12/2014 03:23,Electrical cardioversion
+822,118,05/08/2014 23:54,Urine screening test for diabetes
+823,118,11/02/2013 18:24,Urine screening for glucose
+824,118,19/05/2015 20:31,Subcutaneous immunotherapy
+825,118,21/08/2015 17:23,Influenza  seasonal  injectable  preservative free
+826,118,03/02/2017 17:53,DTaP
+827,119,01/09/2010 08:54,Chlamydia antigen test
+828,119,14/07/2015 04:23,Suture open wound
+829,119,05/08/2014 23:54,Hepatitis C antibody test
+830,119,11/02/2013 18:24,Evaluation of uterine fundal height
+831,119,09/06/2015 20:31,Subcutaneous immunotherapy
+832,119,24/08/2018 17:23,Influenza  seasonal  injectable  preservative free
+833,119,03/02/2017 17:53,Pneumococcal conjugate PCV 13
+834,120,01/09/2010 08:54,Gonorrhea infection test
+835,120,08/12/2015 03:23,Electrical cardioversion
+836,120,05/08/2014 23:54,Rubella screening
+837,120,11/02/2013 18:24,Auscultation of the fetal heart
+838,120,30/06/2015 20:31,Subcutaneous immunotherapy
+839,120,06/02/2018 18:14,Hep B  adolescent or pediatric
+840,120,07/04/2017 18:53,Hib (PRP-OMP)
+841,121,01/09/2010 08:54,Syphilis infection test
+842,121,13/12/2016 03:23,Electrical cardioversion
+843,121,05/08/2014 23:54,Measurement of Varicella-zoster virus antibody
+844,121,11/03/2013 18:24,Evaluation of uterine fundal height
+845,121,21/07/2015 20:31,Subcutaneous immunotherapy
+846,121,13/03/2018 18:14,Hep B  adolescent or pediatric
+847,121,07/04/2017 18:53,rotavirus  monovalent
+848,122,01/09/2010 08:54,Urine culture
+849,122,19/12/2017 03:23,Electrical cardioversion
+850,122,05/08/2014 23:54,Skin test for tuberculosis
+851,122,11/03/2013 18:24,Auscultation of the fetal heart
+852,122,11/08/2015 20:31,Subcutaneous immunotherapy
+853,122,15/05/2018 19:14,Hib (PRP-OMP)
+854,122,07/04/2017 18:53,IPV
+855,123,01/09/2010 08:54,Cytopathology procedure  preparation of smear  genital source
+856,123,06/02/2018 03:23,Electrical cardioversion
+857,123,05/08/2014 23:54,Urine protein test
+858,123,08/04/2013 19:24,Streptococcus pneumoniae group B antigen test
+859,123,01/09/2015 20:31,Subcutaneous immunotherapy
+860,123,15/05/2018 19:14,rotavirus  monovalent
+861,123,07/04/2017 18:53,DTaP
+862,124,01/09/2010 08:54,Urine screening test for diabetes
+863,124,06/02/2018 03:23,Medication Reconciliation (procedure)
+864,124,05/08/2014 23:54,Physical examination of mother
+865,124,08/04/2013 19:24,Evaluation of uterine fundal height
+866,124,22/09/2015 20:31,Subcutaneous immunotherapy
+867,124,15/05/2018 19:14,IPV
+868,124,07/04/2017 18:53,Pneumococcal conjugate PCV 13
+869,125,01/09/2010 08:54,Hepatitis C antibody test
+870,125,21/03/2018 03:23,Colonoscopy
+871,125,02/09/2014 23:54,Evaluation of uterine fundal height
+872,125,08/04/2013 19:24,Auscultation of the fetal heart
+873,125,13/10/2015 20:31,Subcutaneous immunotherapy
+874,125,15/05/2018 19:14,DTaP
+875,125,07/07/2017 18:53,IPV
+876,126,01/09/2010 08:54,Rubella screening
+877,126,25/12/2018 03:23,Electrical cardioversion
+878,126,02/09/2014 23:54,Auscultation of the fetal heart
+879,126,22/04/2013 19:24,Evaluation of uterine fundal height
+880,126,03/11/2015 19:31,Subcutaneous immunotherapy
+881,126,15/05/2018 19:14,Pneumococcal conjugate PCV 13
+882,126,07/07/2017 18:53,Influenza  seasonal  injectable  preservative free
+883,127,01/09/2010 08:54,Measurement of Varicella-zoster virus antibody
+884,127,31/12/2019 03:23,Electrical cardioversion
+885,127,02/09/2014 23:54,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+886,127,22/04/2013 19:24,Auscultation of the fetal heart
+887,127,24/11/2015 19:31,Subcutaneous immunotherapy
+888,127,17/07/2018 19:14,Hib (PRP-OMP)
+889,127,07/07/2017 18:53,DTaP
+890,128,01/09/2010 08:54,Skin test for tuberculosis
+891,128,28/07/2010 04:08,Mammography (procedure)
+892,128,30/09/2014 23:54,Fetal anatomy study
+893,128,29/04/2013 19:24,Evaluation of uterine fundal height
+894,128,15/12/2015 19:31,Subcutaneous immunotherapy
+895,128,17/07/2018 19:14,rotavirus  monovalent
+896,128,07/07/2017 18:53,Pneumococcal conjugate PCV 13
+897,129,01/09/2010 08:54,Urine protein test
+898,129,28/07/2010 04:08,Manual pelvic examination (procedure)
+899,129,30/09/2014 23:54,Alpha-fetoprotein test
+900,129,29/04/2013 19:24,Auscultation of the fetal heart
+901,129,05/01/2016 19:31,Subcutaneous immunotherapy
+902,129,17/07/2018 19:14,IPV
+903,129,07/07/2017 18:53,Hep B  adolescent or pediatric
+904,130,01/09/2010 08:54,Physical examination of mother
+905,130,28/07/2010 04:08,Cytopathology procedure  preparation of smear  genital source (procedure)
+906,130,30/09/2014 23:54,Evaluation of uterine fundal height
+907,130,06/05/2013 19:24,Evaluation of uterine fundal height
+908,130,26/01/2016 19:31,Subcutaneous immunotherapy
+909,130,17/07/2018 19:14,DTaP
+910,130,05/01/2018 17:53,Hib (PRP-OMP)
+911,131,29/09/2010 08:54,Evaluation of uterine fundal height
+912,131,26/01/2011 03:08,Medication Reconciliation (procedure)
+913,131,30/09/2014 23:54,Auscultation of the fetal heart
+914,131,06/05/2013 19:24,Auscultation of the fetal heart
+915,131,16/02/2016 19:31,Subcutaneous immunotherapy
+916,131,17/07/2018 19:14,Pneumococcal conjugate PCV 13
+917,131,05/01/2018 17:53,varicella
+918,132,29/09/2010 08:54,Auscultation of the fetal heart
+919,132,29/06/2011 04:08,Mammography (procedure)
+920,132,28/10/2014 22:54,Evaluation of uterine fundal height
+921,132,13/05/2013 19:24,Episiotomy
+922,132,08/03/2016 19:31,Subcutaneous immunotherapy
+923,132,16/10/2018 19:14,IPV
+924,132,05/01/2018 17:53,MMR
+925,133,29/09/2010 08:54,Screening for chromosomal aneuploidy in prenatal amniotic fluid
+926,133,29/06/2011 04:08,Manual pelvic examination (procedure)
+927,133,28/10/2014 22:54,Auscultation of the fetal heart
+928,133,13/05/2013 19:24,Childbirth
+929,133,29/03/2016 20:31,Subcutaneous immunotherapy
+930,133,16/10/2018 19:14,Influenza  seasonal  injectable  preservative free
+931,133,05/01/2018 17:53,Pneumococcal conjugate PCV 13
+932,134,27/10/2010 08:54,Fetal anatomy study
+933,134,29/06/2011 04:08,Cytopathology procedure  preparation of smear  genital source (procedure)
+934,134,25/11/2014 22:54,Evaluation of uterine fundal height
+935,134,24/06/2013 19:24,Physical examination following birth
+936,134,19/04/2016 20:31,Subcutaneous immunotherapy
+937,134,16/10/2018 19:14,DTaP
+938,134,05/01/2018 17:53,Hep A  ped/adol  2 dose
+939,135,27/10/2010 08:54,Alpha-fetoprotein test
+940,135,23/05/2012 04:08,Mammography (procedure)
+941,135,25/11/2014 22:54,Auscultation of the fetal heart
+942,135,24/06/2013 19:24,Depression screening
+943,135,10/05/2016 20:31,Subcutaneous immunotherapy
+944,135,16/10/2018 19:14,Pneumococcal conjugate PCV 13
+945,135,06/04/2018 18:53,DTaP
+946,136,27/10/2010 08:54,Evaluation of uterine fundal height
+947,136,23/05/2012 04:08,Manual pelvic examination (procedure)
+948,136,23/12/2014 22:54,Hemoglobin / Hematocrit / Platelet count
+949,136,13/10/2014 19:24,Medication Reconciliation (procedure)
+950,136,31/05/2016 20:31,Subcutaneous immunotherapy
+951,136,16/10/2018 19:14,Hep B  adolescent or pediatric
+952,136,05/10/2018 18:53,Influenza  seasonal  injectable  preservative free
+953,137,27/10/2010 08:54,Auscultation of the fetal heart
+954,137,23/05/2012 04:08,Cytopathology procedure  preparation of smear  genital source (procedure)
+955,137,23/12/2014 22:54,Vaccination for diphtheria  pertussis  and tetanus
+956,137,17/11/2014 18:24,Standard pregnancy test
+957,137,21/06/2016 20:31,Subcutaneous immunotherapy
+958,137,16/04/2019 19:14,Hib (PRP-OMP)
+959,137,05/04/2019 18:53,Hep A  ped/adol  2 dose
+960,138,24/11/2010 07:54,Evaluation of uterine fundal height
+961,138,03/12/2012 03:08,Suture open wound
+962,138,23/12/2014 22:54,Urine screening for glucose
+963,138,17/11/2014 18:24,Ultrasound scan for fetal viability
+964,138,12/07/2016 20:31,Subcutaneous immunotherapy
+965,138,16/04/2019 19:14,varicella
+966,138,04/10/2019 18:53,Influenza  seasonal  injectable  preservative free
+967,139,24/11/2010 07:54,Auscultation of the fetal heart
+968,139,06/02/2013 03:08,Medication Reconciliation (procedure)
+969,139,23/12/2014 22:54,Evaluation of uterine fundal height
+970,139,17/11/2014 18:24,Evaluation of uterine fundal height
+971,139,02/08/2016 20:31,Subcutaneous immunotherapy
+972,139,16/04/2019 19:14,MMR
+973,139,30/08/1977 13:16,Hib (PRP-OMP)
+974,140,22/12/2010 07:54,Evaluation of uterine fundal height
+975,140,18/04/2013 04:08,Mammography (procedure)
+976,140,23/12/2014 22:54,Auscultation of the fetal heart
+977,140,17/11/2014 18:24,Auscultation of the fetal heart
+978,140,23/08/2016 20:31,Subcutaneous immunotherapy
+979,140,16/04/2019 19:14,Pneumococcal conjugate PCV 13
+980,140,30/08/1977 13:16,Influenza  seasonal  injectable  preservative free
+981,141,22/12/2010 07:54,Auscultation of the fetal heart
+982,141,18/04/2013 04:08,Manual pelvic examination (procedure)
+983,141,20/01/2015 22:54,Evaluation of uterine fundal height
+984,141,17/11/2014 18:24,Blood typing  RH typing
+985,141,13/09/2016 20:31,Subcutaneous immunotherapy
+986,141,16/04/2019 19:14,Hep A  ped/adol  2 dose
+987,141,28/02/1978 12:16,Hib (PRP-OMP)
+988,142,19/01/2011 07:54,Hemoglobin / Hematocrit / Platelet count
+989,142,18/04/2013 04:08,Cytopathology procedure  preparation of smear  genital source (procedure)
+990,142,20/01/2015 22:54,Auscultation of the fetal heart
+991,142,17/11/2014 18:24,Hemoglobin / Hematocrit / Platelet count
+992,142,04/10/2016 20:31,Subcutaneous immunotherapy
+993,142,16/07/2019 19:14,DTaP
+994,142,29/08/1978 13:16,Influenza  seasonal  injectable  preservative free
+995,143,19/01/2011 07:54,Vaccination for diphtheria  pertussis  and tetanus
+996,143,12/02/2014 03:08,Medication Reconciliation (procedure)
+997,143,17/02/2015 22:54,Streptococcus pneumoniae group B antigen test
+998,143,17/11/2014 18:24,Hepatitis B Surface Antigen Measurement
+999,143,25/10/2016 20:31,Subcutaneous immunotherapy
+1000,143,14/01/2020 18:14,Influenza  seasonal  injectable  preservative free

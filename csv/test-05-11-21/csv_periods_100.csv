@@ -1,0 +1,101 @@
+﻿hash,stat_unit,begin,end,tag
+1,1,23/01/2010,23/01/2012,Respiratory therapy
+2,1,13/05/2011,02/08/2011,Respiratory therapy
+3,1,31/12/2011,30/11/2012,Respiratory therapy
+4,2,29/12/2016,05/01/2017,Respiratory therapy
+5,2,22/01/2017,12/02/2017,Wound care
+6,2,23/04/2019,07/05/2019,Respiratory therapy
+7,3,23/05/2018,20/06/2018,Physical therapy procedure
+8,3,31/10/2017,14/11/2017,Respiratory therapy
+9,3,05/12/2019,12/12/2019,Respiratory therapy
+10,4,17/06/2014,24/06/2014,Urinary tract infection care
+11,4,08/07/2014,06/09/2014,Fracture care
+12,4,26/05/2018,05/01/2019,Routine antenatal care
+13,5,28/01/2012,16/12/2012,Respiratory therapy
+14,5,01/09/2010,30/03/2011,Routine antenatal care
+15,5,13/09/2017,18/04/2018,Routine antenatal care
+16,6,26/02/2014,01/10/2014,Routine antenatal care
+17,6,27/05/2015,06/01/2016,Routine antenatal care
+18,6,03/08/2011,29/02/2012,Routine antenatal care
+19,7,25/10/2012,01/11/2012,Urinary tract infection care
+20,7,09/01/2013,14/08/2013,Routine antenatal care
+21,7,28/11/2015,02/01/2016,Musculoskeletal care
+22,8,03/11/2016,20/11/2019,Respiratory therapy
+23,8,11/09/2017,25/09/2017,Minor surgery care management (procedure)
+24,8,04/12/1979,15/07/1980,Routine antenatal care
+25,9,01/11/1983,05/06/1984,Routine antenatal care
+26,9,04/08/1992,09/03/1993,Routine antenatal care
+27,9,19/10/1993,07/06/1994,Routine antenatal care
+28,10,22/01/2014,21/02/2014,Fracture care
+29,10,27/06/2010,18/07/2010,Physical therapy procedure
+30,10,06/08/2012,27/08/2012,Musculoskeletal care
+31,11,13/07/2015,03/08/2015,Wound care
+32,11,02/12/2012,16/12/2012,Wound care
+33,11,21/03/2019,17/03/2020,Respiratory therapy
+34,12,09/10/1983,06/11/1983,Musculoskeletal care
+35,12,17/12/2010,15/07/2011,Routine antenatal care
+36,12,08/11/2012,15/11/2012,Respiratory therapy
+37,13,24/10/2013,14/11/2013,Physical therapy procedure
+38,13,07/03/2014,17/10/2014,Routine antenatal care
+39,13,11/11/2016,16/06/2017,Routine antenatal care
+40,14,03/07/2004,02/08/2004,Fracture care
+41,14,13/05/2008,27/05/2008,Wound care
+42,14,27/07/2014,03/08/2014,Respiratory therapy
+43,15,29/12/2016,05/01/2017,Respiratory therapy
+44,15,24/06/2003,27/01/2004,Routine antenatal care
+45,15,03/08/2004,08/03/2005,Routine antenatal care
+46,16,10/06/2008,13/01/2009,Routine antenatal care
+47,16,05/01/2015,26/05/2015,Respiratory therapy
+48,16,01/09/2015,05/04/2016,Routine antenatal care
+49,17,18/04/2016,28/11/2016,Routine antenatal care
+50,17,05/07/2017,12/07/2017,Respiratory therapy
+51,17,02/08/2010,16/08/2010,Respiratory therapy
+52,18,26/11/2013,30/05/2017,Allergic disorder monitoring
+53,18,24/08/2014,23/09/2014,Head injury rehabilitation
+54,18,12/09/2016,03/10/2016,Physical therapy procedure
+55,19,05/02/1994,12/03/1994,Musculoskeletal care
+56,19,24/05/2011,10/11/2011,Respiratory therapy
+57,19,27/10/2014,27/11/2014,Respiratory therapy
+58,20,09/07/2013,11/02/2014,Routine antenatal care
+59,20,01/03/2011,15/03/2011,Respiratory therapy
+60,20,09/08/2010,23/08/2010,Wound care
+61,21,13/07/2012,03/08/2012,Wound care
+62,21,08/02/2017,09/05/2017,Fracture care
+63,21,06/08/2013,18/03/2014,Routine antenatal care
+64,22,05/08/2014,10/03/2015,Routine antenatal care
+65,22,27/10/2018,17/11/2018,Burn care
+66,22,04/12/2018,02/07/2019,Routine antenatal care
+67,23,08/12/2017,29/12/2017,Wound care
+68,23,20/10/2019,18/01/2020,Fracture care
+69,23,13/01/2020,20/01/2020,Respiratory therapy
+70,24,08/08/2009,28/07/2010,Respiratory therapy
+71,24,16/02/2017,16/03/2017,Musculoskeletal care
+72,24,05/01/2019,26/01/2019,Wound care
+73,25,13/01/2019,22/05/2019,Respiratory therapy
+74,25,25/11/2011,24/01/2012,Fracture care
+75,25,15/09/2013,06/10/2013,Wound care
+76,26,21/12/2015,11/03/2016,Respiratory therapy
+77,26,28/08/2017,04/09/2017,Minor surgery care management (procedure)
+78,26,20/01/2008,10/08/2008,Routine antenatal care
+79,27,21/12/2008,26/07/2009,Routine antenatal care
+80,27,22/01/2010,21/11/2010,Respiratory therapy
+81,27,13/06/2010,09/01/2011,Routine antenatal care
+82,28,16/09/2012,21/04/2013,Routine antenatal care
+83,28,28/06/2013,16/01/2014,Respiratory therapy
+84,28,02/09/2017,07/10/2017,Musculoskeletal care
+85,29,30/05/2019,20/06/2019,Burn care
+86,29,13/02/2016,06/08/2016,Respiratory therapy
+87,29,21/11/2019,26/04/2020,Respiratory therapy
+88,30,25/10/2013,22/11/2013,Physical therapy procedure
+89,30,27/08/2012,25/03/2013,Routine antenatal care
+90,30,05/05/2014,17/11/2014,Routine antenatal care
+91,31,23/02/2013,16/03/2013,Wound care
+92,31,16/10/2010,20/11/2010,Physical therapy procedure
+93,31,05/09/2013,05/10/2013,Head injury rehabilitation
+94,32,29/07/2009,25/05/2010,Respiratory therapy
+95,32,15/04/2012,29/04/2012,Respiratory therapy
+96,32,19/07/2014,23/06/2015,Respiratory therapy
+97,33,07/05/2016,04/06/2016,Physical therapy procedure
+98,33,07/05/2017,06/06/2017,Head injury rehabilitation
+99,33,16/02/2013,11/04/2013,Respiratory therapy
+100,34,05/06/2015,05/07/2015,Head injury rehabilitation
