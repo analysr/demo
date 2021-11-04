@@ -12,3 +12,4 @@ hash,stat_unit,date,tag,value,status
 20,6,2006-11-01 12:00:00,Temperature,40.0,
 21,7,2006-11-10 12:00:00,Temperature,38.6,
 22,7,2006-11-15 12:00:00,Temperature,38.7,
+31,8,2006-11-15 12:00:00,Temperature,38.7,
