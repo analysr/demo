@@ -1,55 +1,78 @@
 # Fonction d'affichage de l'environement
 
-
-show_env <- function(env) {
-    print(sapply(ls(env), function(x) get(x, envir = env)))
-}
-
-
-
 library(analysr)
 library(tidyverse)
 library(ddpcr)
-
+setup_new_env()
 quiet({
     import_measures_csv(
     csv_path = "./test-25-11/csv_100/measures_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION",
-    value = "VALUE",
-    optional_data = "TYPE")
+    value = "VALUE")
+
     import_events_csv(
     csv_path = "./test-25-11/csv_100/events_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION")
 
-     import_periods_csv(
+    import_periods_csv(
      csv_path = "./test-25-11/csv_100/periods_100.csv",
      stat_unit = "PATIENT",
      begin = "START",
      end = "STOP",
      tag = "DESCRIPTION")
+    import_stat_units_csv(
+      csv_path = "./test-25-11/csv_100/patients_100.csv",
+      stat_unit = "UserId",
+      optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
+    save_env_csv('./test-25-11/after-import')
+
 }, all = TRUE)
 
-show_env(analysr_env)
 
-result <- (
-  analysr_env
-  %>% observed(`Body Weight` < 100)
-  %>% described_by(TYPE == "numeric")
-)
-show_env(result)
-print(result$selection)
 
+setup_new_env()
+# add 24356,"GENDER","F" to ./test-25-11/after-import/descriptions.csv
+load_env_csv('./test-25-11/after-import')
 result2 <- (
-  analysr_env
-  %>% observed(`Body Weight` < 100)
-  %>% at_least(1000000 * days)
-  %>% described_by(TYPE == "numeric")
-  %>% before("Physical therapy procedure")
+   analysr_env
+   %>% observed(`Body Weight` < 80)
+   %>% at_least(5 * days)
+   %>% described_by(GENDER == "F")
+   %>% after(`Combined chemotherapy and radiation therapy (procedure)`)
 )
+print(result2$selection)
 
-print(result2)
+# result <- (
+#   analysr_env
+#   %>% observed(`Body Weight` < 100)
+#   %>% described_by(TYPE == "numeric")
+# )
+# show_env(result)
+# show_env()
+# print(result$selection)
 
+# result2 <- (
+#   analysr_env
+#   %>% observed(`Body Weight` > 50)
+#   %>% at_most(20 * days)
+#   %>% described_by(TYPE == "numeric")
+#   %>% before("Medication Reconciliation (procedure)")
+#   %>% from(lubridate::parse_date_time("2012/01/01 08:00:00", "ymd-HMS"))
+#   %>% to(lubridate::parse_date_time("2013/01/01 08:00:00", "ymd-HMS"))
+#   %>% add_description("TEST")
+
+# )
+# show_env()
+
+# result2 <- (
+#   analysr_env
+#   %>% observed(`Body Weight` > 50)
+#   %>% at_most(20 * days)
+#   %>% described_by(TYPE == "numeric")
+#   %>% before("Medication Reconciliation (procedure)")
+# )
+# show_env()
