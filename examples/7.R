@@ -36,9 +36,9 @@ result <- (
   analysr_env
   %>% observed(`Diastolic Blood Pressure` > 90)
   %>% at_least(5*days)
-  %>% after('Medication reconciliation (procedure)')
+  %>% after(`Medication Reconciliation (procedure)`)
   %>% add_description("Search")
-  )
+)
 end.time <- Sys.time()
 
 # Answer here

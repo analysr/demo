@@ -3,7 +3,6 @@ library(tidyverse)
 library(ddpcr)
 setup_new_env()
 
-quiet({
   import_measures_csv(
     csv_path = "./test-25-11/csv_1000/measures_1000.csv",
     stat_unit = "PATIENT",
@@ -27,9 +26,7 @@ quiet({
     csv_path = "./test-25-11/csv_1000/patients_1000.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('./test-25-11/after-import')
 
-}, all = TRUE)
 
 
 # Call function here
@@ -39,7 +36,7 @@ result <- (
   analysr_env
   %>% observed(`Diastolic Blood Pressure` > 90)
   %>% at_least(5*days)
-  %>% after('Medication reconciliation (procedure)')
+  %>% after(`Medication Reconciliation (procedure)`)
   %>% add_description("Search")
 )
 end.time <- Sys.time()
