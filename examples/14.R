@@ -27,7 +27,7 @@ quiet({
     csv_path = "../test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('../test-25-11/after-import')
+  
   
 }, all = TRUE)
 
@@ -36,8 +36,9 @@ quiet({
 start.time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Electrical cardioversion`)
-  %>% before(`Echocardiography`)
+  %>% observed(`Estimated Glomerular Filtration Rate`)
+  %>% before(`Renal dialysis (procedure)`)
+
 )
 end.time <- Sys.time()
 
@@ -50,4 +51,3 @@ if (nrow(result$selection)>0){
 }
 time.taken <- end.time - start.time
 sprintf("Durée du traitement: %f secondes",time.taken)
-

@@ -27,6 +27,6 @@ quiet({
     csv_path = "../test-25-11/csv_1000/patients_1000.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('../test-25-11/after-import')
+  
 
 }, all = TRUE)

@@ -10,13 +10,13 @@ quiet({
     date = "DATE",
     tag = "DESCRIPTION",
     value = "VALUE")
-
+  
   import_events_csv(
     csv_path = "../test-25-11/csv_100/events_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION")
-
+  
   import_periods_csv(
     csv_path = "../test-25-11/csv_100/periods_100.csv",
     stat_unit = "PATIENT",
@@ -27,8 +27,8 @@ quiet({
     csv_path = "../test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('../test-25-11/after-import')
-
+  
+  
 }, all = TRUE)
 
 # Call function here
@@ -36,13 +36,10 @@ quiet({
 start.time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
-  %>% from("2006/11/09 08:00:00")
-  %>% to("2021/11/11 09:00:00")
-
+  %>% observed(`Electrical cardioversion`)
+  %>% before(`Echocardiography`)
 )
 end.time <- Sys.time()
-
 
 # Answer here
 
@@ -53,3 +50,4 @@ if (nrow(result$selection)>0){
 }
 time.taken <- end.time - start.time
 sprintf("Durée du traitement: %f secondes",time.taken)
+

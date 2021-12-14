@@ -27,7 +27,7 @@ quiet({
     csv_path = "../test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('../test-25-11/after-import')
+  
   
 }, all = TRUE)
 
@@ -36,9 +36,7 @@ quiet({
 start.time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Surgical manipulation of joint of knee`)
-  %>% before(`Knee X-ray`)
-  
+  %>% observed(`Calcium` > 9.8)
 )
 end.time <- Sys.time()
 

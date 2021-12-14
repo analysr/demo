@@ -5,43 +5,40 @@ setup_new_env()
 
 quiet({
   import_measures_csv(
-    csv_path = "../test-25-11/csv_1000/measures_1000.csv",
+    csv_path = "../test-25-11/csv_100/measures_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION",
     value = "VALUE")
-
+  
   import_events_csv(
-    csv_path = "../test-25-11/csv_1000/events_1000.csv",
+    csv_path = "../test-25-11/csv_100/events_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION")
-
+  
   import_periods_csv(
-    csv_path = "../test-25-11/csv_1000/periods_1000.csv",
+    csv_path = "../test-25-11/csv_100/periods_100.csv",
     stat_unit = "PATIENT",
     begin = "START",
     end = "STOP",
     tag = "DESCRIPTION")
   import_stat_units_csv(
-    csv_path = "../test-25-11/csv_1000/patients_1000.csv",
+    csv_path = "../test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('../test-25-11/after-import')
-
+  
+  
 }, all = TRUE)
 
+# Call function here
 
-# After or before events
-# Standard pregnancy test
-# Screening for occult blood in feces (procedure)
-# Urine culture
-# Medication Reconciliation (procedure)
 start.time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
-  %>% before(`Combined chemotherapy and radiation therapy (procedure)`)
+  %>% observed(`Diastolic Blood Pressure` > 125)
+  %>% at_most(45*days)
+  %>% after(`Subcutaneous immunotherapy`)
 )
 end.time <- Sys.time()
 

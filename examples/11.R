@@ -10,13 +10,13 @@ quiet({
     date = "DATE",
     tag = "DESCRIPTION",
     value = "VALUE")
-
+  
   import_events_csv(
     csv_path = "../test-25-11/csv_100/events_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION")
-
+  
   import_periods_csv(
     csv_path = "../test-25-11/csv_100/periods_100.csv",
     stat_unit = "PATIENT",
@@ -27,8 +27,8 @@ quiet({
     csv_path = "../test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  save_env_csv('../test-25-11/after-import')
-
+  
+  
 }, all = TRUE)
 
 # Call function here
@@ -36,8 +36,10 @@ quiet({
 start.time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
-  %>% who_is(LAST == "Kris249")
+  %>% observed(`Estimated Glomerular Filtration Rate` < 60)
+  %>% at_most(180*days)
+  %>% before(`Renal dialysis (procedure)`)
+
 )
 end.time <- Sys.time()
 
