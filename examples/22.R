@@ -5,40 +5,40 @@ setup_new_env()
 
 quiet({
   import_measures_csv(
-    csv_path = "../test-25-11/csv_1000/measures_1000.csv",
+    csv_path = "../test-25-11/csv_100/measures_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION",
     value = "VALUE")
-
+  
   import_events_csv(
-    csv_path = "../test-25-11/csv_1000/events_1000.csv",
+    csv_path = "../test-25-11/csv_100/events_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION")
-
+  
   import_periods_csv(
-    csv_path = "../test-25-11/csv_1000/periods_1000.csv",
+    csv_path = "../test-25-11/csv_100/periods_100.csv",
     stat_unit = "PATIENT",
     begin = "START",
     end = "STOP",
     tag = "DESCRIPTION")
   import_stat_units_csv(
-    csv_path = "../test-25-11/csv_1000/patients_1000.csv",
+    csv_path = "../test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
   
-
+  
 }, all = TRUE)
-
 
 # Call function here
 
 start.time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
-  %>% who_is(LAST == "Kris249")
+  %>% observed(`Body Mass Index` > 28)
+  %>% at_most(360*days)
+  %>% after(`Insertion of subcutaneous contraceptive`)
 )
 end.time <- Sys.time()
 
@@ -51,3 +51,4 @@ if (nrow(result$selection)>0){
 }
 time.taken <- end.time - start.time
 sprintf("Durée du traitement: %f secondes",time.taken)
+

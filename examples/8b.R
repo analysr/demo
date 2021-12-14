@@ -30,24 +30,3 @@ quiet({
   
 
 }, all = TRUE)
-
-
-# Call function here
-
-start.time <- Sys.time()
-result <- (
-  analysr_env
-  %>% observed(`Body Weight` < 80)
-  %>% who_is(LAST == "Kris249")
-)
-end.time <- Sys.time()
-
-# Answer here
-
-sprintf("Nombre de données trouvées: %d",nrow(result$selection))
-if (nrow(result$selection)>0){
-  print("Exemple d'élément trouvé")
-  print(result$selection[1,])
-}
-time.taken <- end.time - start.time
-sprintf("Durée du traitement: %f secondes",time.taken)
