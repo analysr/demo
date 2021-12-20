@@ -1,35 +1,32 @@
 library(analysr)
 library(tidyverse)
-library(ddpcr)
 setup_new_env()
 
-quiet({
   import_measures_csv(
-    csv_path = "../test-25-11/csv_100/measures_100.csv",
+    csv_path = "./test-25-11/csv_100/measures_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION",
     value = "VALUE")
 
   import_events_csv(
-    csv_path = "../test-25-11/csv_100/events_100.csv",
+    csv_path = "./test-25-11/csv_100/events_100.csv",
     stat_unit = "PATIENT",
     date = "DATE",
     tag = "DESCRIPTION")
 
   import_periods_csv(
-    csv_path = "../test-25-11/csv_100/periods_100.csv",
+    csv_path = "./test-25-11/csv_100/periods_100.csv",
     stat_unit = "PATIENT",
     begin = "START",
     end = "STOP",
     tag = "DESCRIPTION")
   import_stat_units_csv(
-    csv_path = "../test-25-11/csv_100/patients_100.csv",
+    csv_path = "./test-25-11/csv_100/patients_100.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  
 
-}, all = TRUE)
+
 
 # Call functions here
 
@@ -39,13 +36,13 @@ quiet({
 # Screening for occult blood in feces (procedure)
 # Urine culture
 # Medication Reconciliation (procedure)
-start.time <- Sys.time()
+start_time <- Sys.time()
 result <- (
   analysr_env
   %>% observed(`Body Weight` < 80)
   %>% before(`Combined chemotherapy and radiation therapy (procedure)`)
 )
-end.time <- Sys.time()
+end_time <- Sys.time()
 
 # Answer here
 
@@ -54,5 +51,5 @@ if (nrow(result$selection)>0){
   print("Exemple d'élément trouvé")
   print(result$selection[1,])
 }
-time.taken <- end.time - start.time
-sprintf("Durée du traitement: %f secondes",time.taken)
+time_taken <- end_time - start_time
+sprintf("Durée du traitement: %f secondes",time_taken)
