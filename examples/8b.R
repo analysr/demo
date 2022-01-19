@@ -1,9 +1,9 @@
 library(analysr)
 library(tidyverse)
-library(ddpcr)
+
 setup_new_env()
 
-quiet({
+
   import_measures_csv(
     csv_path = "./test-25-11/csv_1000/measures_1000.csv",
     stat_unit = "PATIENT",
@@ -29,4 +29,4 @@ quiet({
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
   
 
-}, all = TRUE)
+

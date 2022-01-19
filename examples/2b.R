@@ -1,9 +1,9 @@
 library(analysr)
 library(tidyverse)
-library(ddpcr)
+
 setup_new_env()
 
-quiet({
+
   import_measures_csv(
     csv_path = "./test-25-11/csv_1000/measures_1000.csv",
     stat_unit = "PATIENT",
@@ -29,7 +29,7 @@ quiet({
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
   
 
-}, all = TRUE)
+
 
 
 # After or before events
@@ -37,13 +37,13 @@ quiet({
 # Screening for occult blood in feces (procedure)
 # Urine culture
 # Medication Reconciliation (procedure)
-start.time <- Sys.time()
+start_time <- Sys.time()
 result <- (
   analysr_env
   %>% observed(`Body Weight` < 80)
   %>% before(`Combined chemotherapy and radiation therapy (procedure)`)
 )
-end.time <- Sys.time()
+end_time <- Sys.time()
 
 # Answer here
 
@@ -52,5 +52,5 @@ if (nrow(result$selection)>0){
   print("Exemple d'élément trouvé")
   print(result$selection[1,])
 }
-time.taken <- end.time - start.time
-sprintf("Durée du traitement: %f secondes",time.taken)
+time_taken <- end_time - start_time
+sprintf("Durée du traitement: %f secondes",time_taken)
