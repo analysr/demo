@@ -38,8 +38,7 @@ result <- (
   analysr_env
   %>% observed(`Hematocrit [Volume Fraction] of Blood by Automated count` < 35)
   %>% at_most(60*days)
-  %>% before(`Combined chemotherapy and radiation therapy (procedure)`)
-  
+  %>% before(`Combined chemotherapy and radiation therapy (procedure)`) 
 )
 end_time <- Sys.time()
 

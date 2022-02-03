@@ -31,12 +31,15 @@ setup_new_env()
 
 
 
+# Call function here
 
-# Call functions
 start_time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
+  %>% observed(`Hematocrit [Volume Fraction] of Blood by Automated count` < 35)
+  %>% at_most(60*days)
+  %>% before(`Combined chemotherapy and radiation therapy (procedure)`)
+
 )
 end_time <- Sys.time()
 
@@ -49,5 +52,3 @@ if (nrow(result$selection)>0){
 }
 time_taken <- end_time - start_time
 sprintf("Durée du traitement: %f secondes",time_taken)
-
-

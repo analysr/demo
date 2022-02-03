@@ -38,7 +38,6 @@ result <- (
   analysr_env
   %>% observed(`Knee X-ray`)
   %>% before(`Surgical manipulation of joint of knee`)
-  
 )
 end_time <- Sys.time()
 

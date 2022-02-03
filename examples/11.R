@@ -39,7 +39,6 @@ result <- (
   %>% observed(`Estimated Glomerular Filtration Rate` < 60)
   %>% at_most(180*days)
   %>% before(`Renal dialysis (procedure)`)
-
 )
 end_time <- Sys.time()
 

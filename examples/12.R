@@ -38,7 +38,6 @@ result <- (
   analysr_env
   %>% observed(`Microalbumin Creatinine Ratio` > 300)
   %>% before(`Renal dialysis (procedure)`)
-
 )
 end_time <- Sys.time()
 

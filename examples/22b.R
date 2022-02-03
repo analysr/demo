@@ -31,12 +31,14 @@ setup_new_env()
 
 
 
+# Call function here
 
-# Call functions
 start_time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
+  %>% observed(`Body Mass Index` > 28)
+  %>% at_most(360*days)
+  %>% after(`Insertion of subcutaneous contraceptive`)
 )
 end_time <- Sys.time()
 
@@ -49,5 +51,4 @@ if (nrow(result$selection)>0){
 }
 time_taken <- end_time - start_time
 sprintf("Durée du traitement: %f secondes",time_taken)
-
 

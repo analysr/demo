@@ -38,7 +38,6 @@ result <- (
   analysr_env
   %>% observed(`Estimated Glomerular Filtration Rate`)
   %>% before(`Renal dialysis (procedure)`)
-
 )
 end_time <- Sys.time()
 

@@ -27,7 +27,7 @@ setup_new_env()
     csv_path = "./test-25-11/csv_1000/patients_1000.csv",
     stat_unit = "UserId",
     optional_data = c("BIRTHDATE","DEATHDATE","FIRST","LAST","RACE","ETHNICITY","GENDER","STATE","HEALTHCARE_EXPENSES","HEALTHCARE_COVERAGE"))
-  
+
 
 
 
@@ -38,7 +38,8 @@ start_time <- Sys.time()
 result <- (
   analysr_env
   %>% observed(`Body Weight` < 80)
-  %>% from(`2000-01-01 ???`)
+  %>% from("2006/11/09 08:00:00")
+  %>% to("2021/11/11 09:00:00")
 )
 end_time <- Sys.time()
 

@@ -31,12 +31,14 @@ setup_new_env()
 
 
 
+# Call function here
 
-# Call functions
 start_time <- Sys.time()
 result <- (
   analysr_env
-  %>% observed(`Body Weight` < 80)
+  %>% observed(`Hepatitis C antibody test`)
+  %>% at_least(10*days)
+  %>% after(`Standard pregnancy test`)
 )
 end_time <- Sys.time()
 
@@ -49,5 +51,4 @@ if (nrow(result$selection)>0){
 }
 time_taken <- end_time - start_time
 sprintf("Durée du traitement: %f secondes",time_taken)
-
 
