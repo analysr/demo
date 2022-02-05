@@ -50,3 +50,5 @@ print(result$stat_units)
 
 # Save Env
 save_env_csv('./video-11-12/after')
+
+induce_measure(result, "BMI", )
